@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "es-es"
 title = "magga"
 theme = "docdock"
-themesdir = "themes"
+# themesdir = "themes"
 ordersectionsby = "title"
 [params]
 themeStyle = "original"
