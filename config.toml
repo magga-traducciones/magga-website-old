@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "es-es"
 title = "magga"
-theme = "themes/docdock"
+theme = "docdock"
 themesdir = "/themes"
 ordersectionsby = "title"
 [params]
