@@ -4,7 +4,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "DocDock Documentation"
 theme = "hugo-theme-docdock"
-themesdir = "../.."
+# themesdir = "../.."
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
@@ -18,7 +18,7 @@ enableMissingTranslationPlaceholders = false
 # title = "Documentation for Hugo docDock"
 # weight = 1
 # languageName = "English"
-# 
+#
 # [Languages.fr]
 # title = "Documentation du thème docDock"
 # weight = 2
