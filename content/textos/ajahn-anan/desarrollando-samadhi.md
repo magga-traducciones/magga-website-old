@@ -1,12 +1,13 @@
 +++
-title = "Desarrollando *samādhi*"
+title = "Desarrollando samādhi"
 +++
 
 ## Una guía sobre los fundamentos de la meditación por Ajahn Anan Akiñcano
 
 
-“*Normalmente, nuestra mente está pensando y fantaseando sin cesar. Para detener este flujo de proliferación mental necesitamos practicar meditación.*”
+"*Normalmente, nuestra mente está pensando y fantaseando sin cesar. Para detener este flujo de proliferación mental necesitamos practicar meditación.*"
 
+---
 
 Cuando estemos sentados meditando adoptamos una postura que se sienta bien, una postura balanceada y relajada. No deberíamos inclinarnos ni demasiado hacia la izquierda ni demasiado hacia la derecha, ni demasiado hacia delante ni demasiado hacia atrás. La cabeza no debería estar ni elevada ni colgando y los ojos deberían estar cerrados solo lo suficiente para no sentirnos tensos y nerviosos. Entonces centramos la atención sobre la sensación de respirar en tres puntos: la punta de la nariz, el corazón y el ombligo. Centramos la atención, primero, siguiendo la inspiración mientras pasa por estos tres puntos —comenzando en la nariz, descendiendo a través del corazón y terminando en el ombligo— y luego, en segundo lugar, la centramos en seguir la espiración en orden inverso —comenzando en el ombligo, subiendo a través del corazón y terminando en la punta de la nariz. Estas formas preliminares de centrar la atención pueden llamarse ‘seguir la respiración en tres puntos’.  
 
