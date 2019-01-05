@@ -1,0 +1,87 @@
++++
+title = "Consolidando las verdades del corazón"
++++
+
+# Consolidando las verdades del corazón
+
+
+
+
+Las enseñanzas budistas de samvega y pasada
+
+
+
+
+Thanissaro Bhikkhu<!-- more -->
+
+
+
+
+
+
+
+
+_Un budismo positivista que nos enseña a encontrar la felicidad abriéndonos a la riqueza de nuestra vida diaria. _
+
+
+
+
+
+
+
+Esto es lo que queremos, o es lo que nos dice la gente que intenta vendernos un budismo convencional. Pero ¿es esto lo que necesitamos? y ¿Es esto budismo?
+
+
+
+
+
+
+
+Piensa por un momento en la historia del joven príncipe Siddhartha y su primer encuentro con el envejecimiento, la enfermedad, la muerte y el contemplativo errante. Es uno de los capítulos mas accesibles en la tradición budista, en gran parte por la directa y sincera cualidad de las emociones del joven príncipe. Vio el envejecimiento, la enfermedad y la muerte como un terror absoluto, y depositó todas sus esperanzas en la vida contemplativa del bosque como su única salida. Como Asvaghosa, el gran poeta budista, describe la historia, al joven príncipe no le faltaban amigos y familiares que intentasen disuadirle de esas percepciones, y Asvaghosa fue lo suficientemente sabio para mostrar su consejo positivo de forma atractiva. Aún así, el príncipe se dio cuenta de que si iba a ceder a sus consejos, estaría traicionando a su corazón. Solo permaneciendo fiel a sus honestas emociones pudo él embarcarse en el camino que llevaba lejos de los valores ordinarios de su sociedad y hacia un Despertar insuperable a lo Inmortal.
+
+
+
+
+
+
+
+Esto difícilmente es una historia positivista en el sentido ordinario del término, pero sí afirma algo mas importante que la vida: la verdad del corazón cuando aspira a una felicidad absolutamente pura. El poder de esta aspiración depende de dos emociones, llamadas en Pali samvega y pasada. Muy pocos de nosotros hemos oído hablar de ellas, pero son las emociones más básicas para la tradición budista. No solo inspiraron al joven príncipe en su búsqueda por el Despertar, si no incluso después de que llegase a ser el Buddha aconsejó a sus seguidores el cultivarlas a diario. De hecho, la forma en que manejó estas emociones es tan distintiva que puede ser una de las contribuciones mas importantes que tienen sus enseñanzas para ofrecer a la cultura americana de hoy.Samvega fue lo que el joven príncipe Siddhartha sintió en su primera exposición al envejecimiento, la enfermedad y la muerte. Es una palabra difícil de traducir porque cubre un rango complejo, al menos tres agrupaciones de sentimientos al mismo tiempo: El sentimiento de shock opresivo, la consternación y la alienación que resultan de darse cuenta de la futilidad y falta de significado de la vida como es vivida normalmente; una sensación de reprobación de nuestra propia complacencia y estupidez por permitirnos vivir tan ciegamente; y un sentimiento ansioso de urgencia en intentar encontrar una salida a este ciclo sin sentido. Esta es una agrupación de sentimientos que todos hemos experimentado alguna vez en el proceso del crecimiento, pero desconozco un único término en inglés que cubra adecuadamente estos tres. Sería útil tener este término, y quizás sea razón suficiente para adoptar simplemente la palabra samvega en nuestro lenguaje.Pero además de proveer un término útil, el budismo también ofrece una estrategia efectiva para tratar con los sentimientos que hay detrás, sentimientos que nuestra propia cultura encuentra amenazadores y maneja de forma muy pobre. La nuestra, por supuesto, no es la única cultura amenazada por sentimientos de samvega. En la historia de Siddhartha, la reacción del padre hacia el descubrimiento del joven príncipe representa la manera en que la mayoría de las culturas intentan tratar con estos sentimientos: intentó convencer al príncipe de que sus referencias en cuanto a felicidad eran increíblemente altas, y al mismo tiempo intentó distraerlo con relaciones y con todo placer sensorial inimaginable. Para simplificar, la estrategia era conseguir que el príncipe disminuyese sus objetivos y encontrase satisfacción en una felicidad que era menos que absoluta y no especialmente pura.
+
+Si el joven príncipe estuviese viviendo hoy en América, el padre tendría otras herramientas para tratar con la insatisfacción del príncipe, pero la estrategia básica sería esencialmente la misma. Podemos imaginarlo fácilmente llevando al príncipe a un consejero religioso quien le enseñaría a creer que la creación de Dios es básicamente buena y a no centrarse en ningún aspecto de la vida que pudiese poner en duda esa creencia. O podría llevarle a un psicoterapeuta que trataría los sentimientos de samvega como una incapacidad para aceptar la realidad. Si las terapias habladas no diesen resultado, el terapeuta probablemente le prescribiría drogas que afectasen al estado de ánimo para aliviar el sentimiento del joven hombre y que así pudiese llegar a ser un miembro de la sociedad equilibrado y productivo.
+
+Si el padre estuviese realmente al tanto de las tendencias actuales, podría encontrar un maestro de Dharma que aconsejaría al príncipe a encontrar la felicidad en los pequeños placeres milagrosos, una taza de té, un paseo en los bosques, el activismo social, suavizar el dolor de otra persona. No importaría que estas formas de felicidad todavía se interrumpiesen por el envejecimiento, la enfermedad y la muerte, se lo dirían. El momento presente es todo lo que tenemos, así que deberíamos intentar apreciar la oportunidad agridulce de deleitarse pero no apegarse a las alegrías breves mientras pasan.
+
+Es poco probable que el príncipe con corazón de león que conocemos de la historia siguiese alguno de estos consejos bien intencionados. Los vería como propaganda de una vida de desesperación silenciosa, pidiéndole ser un traidor contra su corazón. Pero si no encontrase consuelo en estas fuentes, ¿donde iría en nuestra sociedad? A diferencia de la India de su tiempo no tenemos alternativas, bien establecidas y aceptadas socialmente, a ser miembros de la sociedad económicamente productivos. Incluso nuestras ordenes religiosas contemplativas son premiadas por su habilidad para proveer de pan, miel y vino para el mercado. Así que el príncipe probablemente no encontraría otra alternativa que unirse  a los vagabundos y marginados, a los radicales y revolucionarios, cazadores por subsistencia y supervivientes relegados a la marginación social.
+
+Descubriría muchas mentes excelentes y espíritus sensibles en estos grupos, pero no un cuerpo acumulado de sabiduría alternativa probada y profunda a la que recurrir. Alguien podría darle un libro de Thoreau o Muir, pero sus escritos no le ofrecerían un análisis satisfactorio del envejecimiento, la enfermedad y la muerte, ni recomendaciones sobre como ir más allá de ellos. Y como difícilmente hay una red de seguridad para la gente marginada, se encontraría invirtiendo una cantidad exorbitante de su energía en asuntos de supervivencia básica, con poco tiempo o energía adicional para encontrar su propia solución al problema de samvega. Acabaría desapareciendo, su budeidad abortada -quizás en el territorio del cañón de Utah, quizás en el bosque de Yukon- sin dejar rastro.
+
+Afortunadamente para nosotros, sin embargo, el príncipe nació en una sociedad que sí respetaba y daba soporte a sus marginados. Esto fue lo que le dio la oportunidad de encontrar una solución al problema de samvega que hiciese justicia a las realidades en su corazón.
+
+El primer paso en esta solución está simbolizado en la historia de Siddhartha por la reacción del príncipe a la cuarta persona que vio en sus viajes fuera del palacio: el contemplativo errante del bosque. La emoción que sintió en ese punto se denomina pasada, otro conjunto complejo de sentimientos traducido normalmente como “claridad y confianza serena.” Es lo que evita que samvega se convierta en desesperación. En el caso del príncipe, obtuvo un sentido claro de su problema y de la salida a este, que lleva a algo mas allá del envejecimiento, la enfermedad y la muerte, y al mismo tiempo se sintió confiado en que este camino funcionaría.
+
+Como las primeras enseñanzas budistas admiten libremente, el problema es que el ciclo de nacimiento, envejecimiento y muerte no tiene sentido.  No intentan negar este hecho por lo que no nos piden que seamos deshonestos con nosotros mismos o que cerremos los ojos a la realidad. Como un maestro ha dicho, el reconocimiento budista de la realidad del sufrimiento -tan importante que es honrado como la primera verdad noble- es un regalo, ya que confirma nuestra más sensible y directa experiencia de las cosas, una experiencia que muchas otras tradiciones intentan negar.
+
+A partir de ahí, las primeras enseñanzas nos piden ser incluso más sensibles, hasta el punto de ver que la verdadera causa del sufrimiento no está ahí fuera -en la sociedad o en algún ser externo- sino aquí dentro, en el deseo presente en cada mente individual. Luego confirman que hay un fin para el sufrimiento, una liberación del ciclo. Y muestran el camino para esa liberación, a través de desarrollar cualidades nobles ya latentes en la mente hasta el punto donde estas desechan el deseo y se abren hacia la Inmortalidad.  De este modo el problema tiene una solución práctica, una solución dentro de las posibilidades de todo ser humano.
+
+Es también una solución abierta al escrutinio crítico y a las pruebas -un indicio de cuan confiado era el Buddha en la solución que encontró al problema de samvega. Este es uno de los aspectos del budismo auténtico que más atrae a la gente que está cansada de que le digan que debería intentar negar las percepciones que inspiran su sensación de samvega en primer lugar.
+
+De hecho, el budismo primitivo no solo confiaba en que podía gestionar los sentimientos de samvega sino que también es una de las pocas religiones que los cultiva activamente hasta un punto radical. Su solución a los problemas de la vida demandan tanto esfuerzo dedicado que solo un samvega fuerte protegerá al practicante budista de regresar a sus viejas formas. De ahí la recomendación de que todos los budistas, hombres y mujeres, laicos y ordenados, deberían reflexionar diariamente en los hechos del envejecimiento, la enfermedad, la separación y la muerte -para desarrollar sentimientos de samvega- y en el poder de las acciones de uno mismo, para llevar a samvega un paso más allá, a pasada.
+
+Para la gente cuyo sentido de samvega es tan fuerte que quieren abandonar todo vínculo social que les impida seguir el camino hacia el fin del sufrimiento, el budismo ofrece ambos, un cuerpo de sabiduría comprobado en el tiempo en el que inspirarse, así como una red de seguridad: el sangha monástico, una institución que les permite dejar la sociedad laica sin tener que preocuparse de la supervivencia básica. Para aquellos que no pueden dejar sus ataduras sociales, la enseñanza budista ofrece una forma de vivir en el mundo sin ser superado por el mundo, llevando una vida de generosidad, virtud y meditación para fortalecer las cualidades nobles de la mente que llevarán al fin del sufrimiento.
+
+La relación simbiótica formada por estas dos ramas de la parisa budista, o comunidad, garantiza que cada uno se beneficiará del contacto con el otro. El soporte de los laicos garantiza que los monjes no necesiten preocuparse demasiado por la comida, la ropa y el refugio; la gratitud que los monjes inevitablemente sienten por la generosidad libremente ofrecida por los laicos les protege de convertirse en inadaptados y misántropos. Al mismo tiempo, el contacto con los monjes ayuda a los laicos a fomentar la perspectiva adecuada sobre la vida, que nutre la energía de samvega y pasada que necesitan para protegerse de quedar embotados y adormecidos por la propaganda materialista de la economía dominante.
+
+Así que la actitud budista hacia la vida cultiva samvega -una aceptación clara de la falta de sentido del ciclo de nacimiento, envejecimiento y muerte- y lo desarrolla en pasada: un camino fiable hacia lo Inmortal. Ese camino incluye no solo una guía comprobada a lo largo del tiempo, sino también una institución social que lo nutre y mantiene vivo. Esto es todo lo que la sociedad necesita desesperadamente. Es una pena que, en nuestros esfuerzos actuales en popularizar el budismo, haya aspectos de la tradición budista comúnmente ignorados. Continuamos olvidando que una fuente de la fuerza budista es la habilidad de mantener un pie fuera de la corriente dominante, y que la metáfora para la práctica es que cruza sobre la corriente hacia la otra orilla. Mi esperanza es que comenzaremos a traer estas cosas a la mente y llevarlas al corazón, para que en nuestro esfuerzo por encontrar un budismo que venda, no acabemos vendiéndonos barato.
+
+
+
+
+
+
+Provenance: ©1997 Thanissaro Bhikkhu. Transcribed from a file provided by the translator. This Access to Insight edition is ©1997–2011.
+Terms of use: You may copy, reformat, reprint, republish, and redistribute this work in any medium whatsoever, provided that: (1) you only make such copies, etc. available free of charge; (2) you clearly indicate that any derivatives of this work (including translations) are derived from this source document; and (3) you include the full text of this license in any copies or derivatives of this work. Otherwise, all rights reserved.<!-- more -->
+
+
+Fuente: [Thanissaro Bhikkhu - Affirming ](http://www.accesstoinsight.org/lib/authors/thanissaro/affirming.html)
+Libre distribución siempre que sea sin alterar el contenido, de forma gratuita y citando las fuentes.
+dhammammagga 2011-2013
