@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 08:14:32+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/
-slug: la-virtud
-title: La virtud
-wordpress_id: 252
+title: La virtud - Pautas para la vida
+weight: 6
 ---
-
-# LA VIRTUD
-
-
-Pautas para la vida
 
 No hay tesoro más valioso en este mundo
 que alguien bien establecido en la virtud.

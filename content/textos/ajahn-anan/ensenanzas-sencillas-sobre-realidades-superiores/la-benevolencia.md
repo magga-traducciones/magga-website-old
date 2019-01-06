@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 08:25:40+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-benevolencia/
-slug: la-benevolencia
-title: La benevolencia
-wordpress_id: 261
+title: La benevolencia - Estar a gusto
+weight: 8
 ---
-
-# LA BENEVOLENCIA
-
-
-Estar a gusto
 
 Mi religión es la benevolencia
 El Dalai Lama

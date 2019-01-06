@@ -1,17 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-02-16 14:26:54+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/metodo-1/
-slug: metodo-1
 title: Método 1
-wordpress_id: 361
 weight: 1
 ---
-
-# Método 1
-
 
 Siéntate en posición de medio loto, con la pierna derecha encima de la pierna izquierda, tus manos con las palmas hacia arriba en el regazo, la mano derecha encima de la izquierda. Levanta las manos respetuosamente, palma contra palma delante del corazón, y piensa en las cualidades del Buddha, el Dhamma y el Sangha: buddho me natho -el Buddha es mi soporte. Dhammo me natho -El Dhamma es mi soporte. Sangho me natho -El Sangha es mi soporte. Luego repite mentalmente buddho, buddho; dhammo, dhammo; sangho, sangho. Lleva las manos de Nuevo al regazo y repite mentalmente una palabra, buddho, tres veces.
 

@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 08:02:51+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/
-slug: la-atencion
-title: La atención
-wordpress_id: 246
+title: La atención - El corazón de la práctica
+weight: 4
 ---
-
-# LA ATENCIÓN
-
-
-El corazón de la práctica
 
 En la práctica del Dhamma todo lo que necesitamos es la atención.
 Todo en el mundo se volverá luego claro.

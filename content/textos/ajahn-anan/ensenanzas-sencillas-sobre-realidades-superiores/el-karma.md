@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 08:19:55+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/el-karma/
-slug: el-karma
-title: El karma
-wordpress_id: 259
+title: El karma - Acciones y sus resultados
+weight: 7
 ---
-
-# EL KARMA
-
-
-Acciones y sus resultados
 
 Obviamente hay una causa raíz para toda la bondad y la maldad,
 para toda la felicidad y el sufrimiento experimentado

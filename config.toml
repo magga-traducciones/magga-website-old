@@ -4,5 +4,5 @@ ordersectionsby = "title"
 theme = "docdock"
 title = "magga"
 [params]
-themeStyle = "original"
-themeVariant = "gold"
+themeStyle = "flex"
+# themeVariant = "gold"

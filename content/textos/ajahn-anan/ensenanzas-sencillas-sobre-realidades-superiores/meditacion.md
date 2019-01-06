@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 07:57:06+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/
-slug: meditacion
-title: Meditación
-wordpress_id: 243
+title: Meditación - El desarrollo de la mente
+weight: 3
 ---
-
-# MEDITACIÓN
-
-
-El desarrollo de la mente
 
 La Concentración no surge sin la sabiduría,
 ni la sabiduría sin concentración.

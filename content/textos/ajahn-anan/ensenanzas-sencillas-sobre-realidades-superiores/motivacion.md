@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 08:08:24+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/
-slug: motivacion
-title: Motivación
-wordpress_id: 249
+title: Motivación - ¿Por qué practicar?
+weight: 5
 ---
-
-# MOTIVACIÓN
-
-
-¿Por qué practicar?
 
 La gente debería pensar en como serían sus vidas si no meditasen.
 ¿Cómo serían sus corazones?

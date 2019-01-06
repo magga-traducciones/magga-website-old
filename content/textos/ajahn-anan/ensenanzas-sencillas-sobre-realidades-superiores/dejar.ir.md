@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 08:35:46+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/dejar-ir/
-slug: dejar-ir
-title: Dejar ir
-wordpress_id: 265
+title: Dejar ir - Completando el camino
+weight: 10
 ---
-
-# DEJAR IR
-
-
-Completando el camino
 
 Si dejas ir un poco, tendrás un poco de paz.
 Si dejas ir mucho, tendrás mucha paz.

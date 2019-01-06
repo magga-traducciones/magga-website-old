@@ -1,18 +1,9 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 08:29:18+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/
-slug: la-sabiduria
-title: La sabiduría
-wordpress_id: 263
+title: La sabiduría - Conocimiento intuitivo de la Realidad
+weight: 9
 ---
-
-# SABIDURÍA
-
-
-Conocimiento intuitivo de la Realidad
 
 Es la sabiduría la que permite dejar ir una felicidad menor
 en búsqueda de una felicidad que es superior.

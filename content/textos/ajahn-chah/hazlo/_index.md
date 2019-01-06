@@ -2,21 +2,18 @@
 title = "Simplemente, ¡hazlo!"
 +++
 
-# Simplemente, ¡hazlo!
-
-
-
 
 Ajahn Chah
 
 
 
+-----
+*Una charla en directo, en dialecto Lao, dada a una Asamblea de Monjes recién ordenados en Wat Pah Pong, en el día del comiendo del Retiro de las Lluvias, en Julio de 1978.*  
 
-<!-- more -->Una charla en directo, en dialecto Lao, dada a una Asamblea de Monjes recién ordenados en Wat Pah Pong, en el día del comiendo del Retiro de las Lluvias, en Julio de 1978
+*Anteriormente una traducción diferente de esta charla sobre el Dhamma fue impresa con el título ¡Empieza a hacerlo!*
 
-
-Anteriormente una traducción diferente de esta charla sobre el Dhamma fue impresa con el título '¡Empieza a hacerlo!'<!-- more -->
-
+-----
+  
 Continúa simplemente inspirando y espirando así. No te intereses por nada más. Incluso si alguien está cabeza abajo con el culo al aire. No le prestes ninguna atención. Solo permanece con la inspiración y la espiración. Concentra tu atención en la respiración. Solo sigue haciendo esto.
 
 No tengas ningún objetivo más. No es necesario pensar en conseguir cosas. No tengas ninguna otra meta en absoluto. Simplemente conoce la inspiración y la espiración. La inspiración y la espiración. Bud en la inspiración; dho en la espiración. Mantente simplemente con la respiración así hasta que seas consciente de la inspiración y consciente de la espiración.... consciente de la inspiración y consciente de la espiración. Sé consciente de esta manera hasta que la mente esté tranquila, sin molestias, sin agitación, simplemente la respiración saliendo y entrando. Deja a tu mente reposar en este estado. No necesitas una meta todavía. Es este estado lo que sería la primera etapa de la práctica.

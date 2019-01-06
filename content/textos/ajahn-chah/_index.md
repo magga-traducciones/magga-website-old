@@ -3,4 +3,5 @@ title = "Ajahn Chah"
 +++
 
 
-  * [Simplemente ¡Hazlo!](http://dhammamagga.wordpress.com/textos/ajahn-chah/hazlo/)
+  * [Simplemente ¡Hazlo!](./hazlo/)
+  * [La Clave de la Liberación](./la-clave-de-la-liberacion/)

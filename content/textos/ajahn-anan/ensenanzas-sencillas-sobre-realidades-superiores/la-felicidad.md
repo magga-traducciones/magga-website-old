@@ -1,25 +1,17 @@
 ---
 author: dhammamagga
-comments: false
 date: 2013-01-21 07:46:36+00:00
-layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/
-slug: la-felicidad
-title: La felicidad
-wordpress_id: 239
+title: La felicidad - Más allá del sufrimiento
+weight: 2
 ---
 
-# **LA FELICIDAD**
-
-
-Más allá del sufrimiento
 
 La felicidad surge de la compañía oportuna de amigos.
 La felicidad surge de tener pocas necesidades.
 La felicidad surge de la virtud acumulada al final de la vida.
 La felicidad surge de ver más allá del sufrimiento.
 El Buddha
-Dhammapada 331<!-- more -->
+Dhammapada 331
 
 
 ## **1. ¿Qué es esto?**
