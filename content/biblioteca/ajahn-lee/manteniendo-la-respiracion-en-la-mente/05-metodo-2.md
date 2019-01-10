@@ -1,0 +1,117 @@
+---
+author: "Ajahn Lee"
+title: "Método 2"
+booktitle: "Manteniendo la respiración en la mente"
+source: "https://www.accesstoinsight.org/lib/thai/lee/inmind.html"
+license: "BY-NC-SA"
+publisher: "dhammamagga"
+date: 2013
+pubyear: 2013 
+weight: 5
+draft: false
+---
+
+Hay siete pasos básicos:
+
+> 1. Comienza con tres o siete respiraciones largas,  piensa “bud-“ con la inhalación y “–dho” con la exhalación. Mantén la sílaba meditativa mientras dure la respiración.
+
+> 2. Se claramente consciente de cada inhalación y exhalación.
+
+> 3. Observa la respiración mientras entra y sale, notando si es cómoda o incómoda, amplia o restringida, obstruida o fluida, rápida o lenta, corta o larga, cálida o fría. Si la respiración no se siente cómoda ajústala hasta que  lo sea. Por ejemplo, si respirar con la inhalación larga y la exhalación larga resulta incómodo intenta respirar con una inhalación corta y una exhalación corta. En cuanto veas que tu respiración es cómoda deja que esa sensación de comodidad respirando se extienda a distintas partes del cuerpo. Para empezar, inhala la sensación de la respiración por la base del cráneo y déjala fluir descendiendo por la columna. Luego, si eres hombre, deja que se extienda por tu pierna derecha hasta la planta del pie, hasta la punta de los dedos, y hacia el exterior. Inhala la sensación respiratoria por la base del cráneo de nuevo y deja que se extienda por tu columna, bajando por tu pierna izquierda hasta la punta de los dedos y luego hacia el exterior. (Si eres mujer comienza con el lado izquierdo primero, ya que el sistema nervioso de mujeres y hombres es diferente). Luego deja que la respiración se propague desde la base del cráneo bajando por ambos hombros, pasando tus codos y muñecas, hasta la punta de los dedos y hacia el exterior. Deja que la respiración se propague desde la base de la garganta bajando por el nervio central en la parte delantera del cuerpo, pasando por los pulmones y el hígado, bajando hasta la vejiga y el colon. Inhala el aire justo en el centro del pecho y deja que baje hasta tus intestinos. Deja que todas estas sensaciones respiratorias se propaguen para que se conecten y fluyan juntas, y sentirás una sensación de bienestar mejorada significativamente.  
+
+
+> 4. Aprende cuatro maneras de ajustar la respiración:  
+> a. inhalación larga y exhalación larga.  
+> b. inhalación larga y exhalación corta.  
+> c. inhalación corta y exhalación larga.  
+> d. inhalación corta y exhalación corta.  
+> Respira como te sea más cómodo. O, incluso mejor, aprende a respirar cómodamente de las cuatro maneras, porque tu condición física y tu respiración están siempre cambiando
+
+> 5. Llega a conocer las bases o puntos de enfoque para la mente –los puntos de descanso de la respiración- y centra tu atención en el que te sea más cómodo. Algunas de estas bases son:  
+> a. la punta de la nariz.  
+> b. el centro de la cabeza.  
+> c. el paladar.  
+> d. la base de la garganta.  
+> e. el esternón (la punta del esternón).  
+> f. el ombligo (o un punto justo encima).  
+> Si tienes dolores de cabeza frecuentes o problemas nerviosos no te centres en ningún punto situado por encima de la base de la garganta. Y no intentes forzar la respiración o entrar en trance.  
+Respira libremente y con naturalidad. Deja que la mente esté a gusto con la respiración –pero no hasta el punto en que se disperse.  
+
+> 6. Extiende tu consciencia –tu sensación de sentir conscientemente- por todo el cuerpo.  
+
+> 7. Une las sensaciones respiratorias del cuerpo, dejándolas fluir juntas cómodamente, manteniendo tu atención tan abarcativa como sea posible. Una vez que eres completamente consciente de los aspectos de la respiración que ya conoces en tu cuerpo llegarás a conocer muchos otros aspectos también. La respiración, por su naturaleza, tiene muchas facetas: sensaciones respiratorias fluyendo en los nervios, otras fluyendo alrededor y sobre los nervios, otras propagándose de los nervios a cada poro. Las sensaciones respiratorias beneficiosas y dañinas están mezcladas por su propia naturaleza.  
+
+Resumiendo: (a) para mejorar la energía ya existente en cada parte de tu cuerpo, para que puedas lidiar con cosas como la enfermedad y el dolor; y (b) para que puedas aclarar el conocimiento que ya posees, para que este pueda llegar a ser la base para las habilidades que llevan a la liberación y pureza del corazón –deberías tener siempre estos siete pasos en mente,  porque son absolutamente básicos para cada aspecto de la meditación con la respiración. Cuando los hayas dominado, habrás abierto una carretera principal. Y respecto a las carreteras secundarias –los incidentes de la meditación con la respiración- hay muchos de ellos, pero en realidad no son importantes. Estarás perfectamente a salvo si te adhieres a estos siete pasos y los practicas tanto como te sea posible.  
+
+Una vez que has aprendido a poner en orden la respiración es como si tuvieses a todo el mundo organizado en tu casa. Los incidentes de la meditación con la respiración son como gente fuera de tu casa –en otras palabras, invitados. Una vez que la gente de tu casa se comporta bien, tus invitados tienen que adaptarse.  
+
+Los “invitados” aquí son las señales (_nimitta_) y las respiraciones errantes que tenderán a pasar dentro la gama de respiraciones con las que estás tratando: las distintas señales que surgen de la respiración pueden aparecer como imágenes –luces brillantes, gente, animales, tú mismo, otros; o como sonidos –voces de gente, algunas que reconoces y otras que no. En algunos casos estas señales aparecen como olores –ya sean fragancias o como un cadáver fétido. A veces la inhalación puede hacerte sentir tan lleno que no tengas sensación de hambre o sed. A veces la respiración puede enviar calidez, calor, frio, o sensaciones de hormigueo por el cuerpo. A veces puede hacer que cosas que nunca te habían sucedido surjan de repente en la mente.  
+
+Todas estas cosas se clasifican como invitados. Antes de que vayas a recibir a los invitados deberías ordenar bien tu respiración y tu mente, haciéndolas estables y seguras. Para recibir a estos invitados tienes primero que controlarlos. Si no puedes controlarlos no tienes nada que hacer con ellos.  Podrían engañarte. Pero si puedes ponerlos a prueba, pueden ser de utilidad más adelante.  
+
+Ponerlos a prueba significa cambiarlos a voluntad, con la fuerza del pensamiento (_patibhaga nimitta_) –haciéndolos pequeñas, grandes, enviándolos lejos, acercándolos, haciéndolos aparecer y desaparecer, sacándolos y metiéndolos. Solo entonces podrás usarlos para entrenar la mente.  
+
+Una vez que has dominado estas señales harán surgir capacidades sensoriales aumentadas: la habilidad de ver sin abrir los ojos; la habilidad de oír sonidos lejanos o oler aromas lejanos; la habilidad de saborear los distintos elementos que existen en el aire y puede ser útiles al cuerpo para superar sensaciones de hambre o deseo; la habilidad de hacer surgir ciertas sensaciones a voluntad –sentir frescor cuando quieres sentir frescor, calor cuando quieres sentir calor, calidez cuando quieres sentir calidez, fuerza cuando necesitas fortaleza- porque los distintos elementos del mundo que te pueden ser útiles físicamente vendrán y aparecerán en tu cuerpo.  
+
+La mente, también, será intensificada, y tendrá la capacidad de desarrollar el ojo de la intuición (_ñana-cakkhu_): la habilidad de recordar vidas anteriores, la habilidad de saber donde renacerán otros seres después de la muerte, y la habilidad de limpiar el corazón de los fermentos de la corrupción.  Si tienes la preparación podrás recibir a estos invitados y ponerlos a trabajar en tu casa.  
+
+Estos son algunos de los incidentes de la meditación con la respiración. Si pasas por ellos en tu práctica examínalos a fondo. No te complazcas con lo que aparezca. No te alteres o intentes negar lo que aparezca. Mantén tu mente estable. Permanece neutral. Sé prudente. Considera cuidadosamente lo que aparezca para ver si se puede confiar en ello o no. De lo contrario podría llevarte a suposiciones equivocadas. Bueno o malo, correcto o equivocado, alto o bajo: todo depende de si tu corazón es astuto o torpe, y en cómo eres de habilidoso.  Si eres torpe incluso las cosas altas pueden volverse bajas, y las cosas buenas malas.  
+ 
+Una vez que conoces los distintos aspectos de la respiración y sus incidentes, puedes obtener conocimiento sobre las cuatro Verdades Nobles. Además, puedes aliviar los dolores físicos cuando aparecen en tu cuerpo. La atención es el ingrediente activo de la medicina; la respiración es el disolvente. La atención puede limpiar y purificar la respiración. Una respiración pura puede limpiar la sangre por todo el cuerpo, y cuando la sangre está limpia puede aliviar muchas de las enfermedades y dolores corporales. Si sufres de desordenes nerviosos, por ejemplo, desaparecerán por completo. Lo que es más, podrás fortalecer el cuerpo para así sentir una mayor sensación de salud y bienestar.  
+
+Cuando el cuerpo se siente bien, la mente puede asentarse y descansar. Y una vez que la mente está descansada tú ganas fuerza: la habilidad de aliviar toda sensación de dolor mientras estás senado meditando, para así poder seguir sentado durante horas. Cuando tu cuerpo está libre de dolor, la mente está libre de los Impedimentos (_nivarana_). Ambos, cuerpo y mente, son fuertes. Esto se llama _samadhi-balam_ –la fuerza de la concentración.  
+
+Cuando tu concentración es así de fuerte, pude hacer surgir el discernimiento: la habilidad de ver el estrés, su causa, su disolución, el camino hacia esa disolución, todos claramente en la respiración. Esto puede explicarse como sigue:  
+
+La inhalación y la exhalación son estresantes –la inhalación, el estrés del surgir; la exhalación, el estrés del cesar. No ser consciente de la respiración mientras entra y sale, no conocer las características de la respiración, es la causa del estrés. Saber cuándo la respiración está llegando, saber cuándo está saliendo, conocer sus características con claridad –i.e., mantener tus puntos de vista alineados con la realidad de la respiración –es el Punto de Vista Correcto, parte del Camino Noble.  
+
+Saber qué maneras de respirar son incómodas, saber cómo modificar la respiración; saber “Esta manera de respirar es incómoda; Tendré que respirar así para sentirme a gusto”: Esto es la Resolución Correcta.  
+
+Los factores mentales que piensan y evalúan correctamente todos los aspectos de la respiración son el Habla Correcto.  
+
+Conocer varias formas de corregir la respiración: por ejemplo,  haciendo la inhalación larga y la exhalación larga, la inhalación corta y la exhalación corta, la inhalación corta y la exhalación larga, la inhalación larga y la exhalación corta, hasta que encuentras la respiración que a ti te resulte más cómoda: Esto es la Acción Correcta.  
+
+Saber cómo usar la respiración para purificar la sangre, cómo dejar que esta sangre purificada nutra los músculos del corazón, cómo ajustar la respiración para que alivie el cuerpo y tranquilice la mente, cómo respirar para que te sientas lleno y refrescado en cuerpo y mente: Esto es el Correcto Modo de Vida.  
+
+Intentar ajustar la respiración hasta que tranquilice el cuerpo y la mente, y seguir intentándolo hasta que estás completamente a gusto es el Esfuerzo Correcto.  
+
+Estar alerta y atento a la respiración todo el tiempo, conocer los distintos aspectos de la respiración –el flujo ascendente de la respiración, el flujo descendente, la respiración en el estómago, la respiración en los intestinos, la respiración fluyendo a lo largo de los músculos y saliendo por cada poro- hacer un seguimiento de estas cosas con cada respiración: Esto es la Correcta Atención.  
+
+Una mente concentrada solo en asuntos relacionados con la respiración, sin recoger ningún otro objeto que interfiera, hasta que la mente se refine, dando lugar al surgimiento de la absorción fija y luego de la comprensión intuitiva liberadora justo ahí: Esto es la Concentración Correcta.  
+
+Pensar en la respiración se denomina _vitakka_, pensamiento dirigido. Ajustar la respiración y dejarla que se extienda se llama _vicara_, evaluación. Cuando todos los aspectos de la respiración fluyen libremente por todo el cuerpo te sentirás lleno y refrescado en cuerpo y mente: Esto es _piti_, rapto. Cuando el cuerpo y la mente están ambos en reposo te sentirás sereno y aliviado: Esto es _sukha_, placer. Y una vez que sientes placer la mente está encaminada a quedar ceñida a una única preocupación y a no desviarse yendo tras ninguna otra: Esto es _ekaggatarammana_, unicidad de preocupación. Estos cinco factores forman la etapa inicial de la Concentración Correcta.  
+
+Cuando todas estas partes del Camino Noble –virtud, concentración y discernimiento- se reúnen y maduran por completo en el corazón obtienes conocimiento intuitivo sobre todos los aspectos de la respiración, sabiendo que “respirar de esta forma da lugar a estados mentales hábiles. Respirar de esa manera da lugar a estados mentales inhábiles”. No quedas atrapado por los factores –la respiración en todos sus aspectos- que crean el cuerpo, los factores que crean el habla, los factores que crean la mente, ya sean buenos o malos. Los dejas estar, en línea con su naturaleza inherente: Esto es la disolución del estrés.  
+
+Otra forma, incluso más breve, de expresar las cuatro Verdades Nobles es esta: La respiración es la verdad del estrés. No ser consciente de la inhalación, no ser consciente de la exhalación: esta es la causa del estrés –consciencia obscurecida y engañada. Penetrar todos los aspectos de la respiración tan claramente que puedes dejarlos ir sin sentimiento de apego es la disolución del estrés. Estar constantemente atento y alerta a todos los aspectos de la respiración es el camino para la disolución del estrés.  
+
+Cuando puedes hacer esto puedes decir que estas siguiendo correctamente el camino de la meditación con la respiración. Tienes una habilidad cognitiva, capaz de conocer las cuatro Verdades con claridad. Puedes alcanzar la liberación. La liberación es una mente que no se apega a causas bajas y efectos bajos –i.e., el estrés y su causa; o a causas altas y efectos altos –la disolución del estrés y el camino hacia su disolución. Es una mente sin apego a las cosas que la hacen conocer, sin apego al conocimiento, sin apego a conocer. Cuando puedes separar estas cosas has dominado la habilidad de la liberación –en otras palabras, cuando conoces lo que constituye el principio, lo que constituye el fin y lo que hay entre ambos, dejándolos ser como son por sí mismos, en línea con la frase:  
+
+> *Sabe Dhamma anatta*  
+> *Todos los fenómenos son impersonales.*  
+
+Aferrarse a las cosas que hacen que conozcamos –los elementos, _khandhas_, los sentidos y sus objetos- se denomina apego a la sensualidad (_kamupadana_). Aferrarse al conocimiento se denomina apego a los puntos de vista (_ditthupadana_). Estar poco familiarizado con el conocer puro en sí mismo (_buddha_) se denomina apego a los preceptos y los procedimientos (_silabbatupadana_). Y cuando nos aferramos de esta forma vamos encaminados a ser engañados por los factores que crean el cuerpo, el habla, y la mente, surgiendo todos ellos de la consciencia oscurecida.  
+
+El Buddha fue un maestro completo de ambos, causa y efecto, sin estar apegado a causas bajas y efectos bajos, o a causas altas y efectos altos. Estaba por encima de la causa y más allá del efecto. El estrés y el alivio estaban ambos a su disposición, pero no estaba apegado a ninguno de ellos. Conocía por completo tanto lo bueno como lo malo, estaba completamente equipado con ambos, el yo y el no-yo, pero no estaba apegado a ninguna de estas cosas. Tenía a sus disposición los objetos que pueden ser la base para la causa del estrés, pero no estaba apegado a ellos. El Camino –el discernimiento- estaba también a su disposición: Él sabía cómo parecer tanto ignorante como astuto, y como usar ambas, ignorancia y astucia, en su trabajo de difundir la religión. Y la disolución del estrés la tenía a su disposición pero no se aferraba a ella, no estaba apegando a ella, que es por lo que podemos decir que su maestría era completa.  
+
+Antes de que el Buddha fuese capaz de dejar ir estas cosas tuvo primero que trabajar haciéndolas surgir en su totalidad. Solo entonces pudo dejarlas a un lado. Dejó la abundancia, a diferencia de la gente común que “dejan” por pobreza. Aunque dejó estas cosas estaban todavía a su disposición. Nunca desestimó la virtud, la concentración y el discernimiento que había trabajado perfeccionándolo hasta el día de su Despertar. Siguió usando cada aspecto de la virtud, la concentración y el discernimiento hasta el día que entró en la liberación total (_parinibbana_). Incluso el momento en el que iba al “_nibbana_”, estaba practicando su concentración completamente dominada –en otras palabras, su Liberación total ocurrió cuando estaba entre los _jhanas_ de la forma y de sin forma.  
+
+Así que no deberíamos menospreciar la virtud, la concentración y el discernimiento. Algunas personas no observan los preceptos porque tienen miedo de atarse a ellos. Algunas personas no practican concentración porque tienen miedo de volverse ignorantes o locos. La realidad del asunto es que en general ya somos ignorantes, ya estamos locos, y que la práctica de centrar la mente es lo que acabará con nuestra ignorancia y nuestra locura. Una vez que nos hemos entrenado adecuadamente haremos surgir el discernimiento puro, como una joya tallada que emana luz por su propia naturaleza. Esto es lo que acredita un discernimiento verdadero. Surge para nosotros personalmente y se denomina _paccattam_: podemos hacerlo surgir, y conocerlo, solo por nosotros mismos.  
+
+La mayoría de nosotros, a pesar de esto, tendemos a malinterpretar la naturaleza del discernimiento. Cogemos una imitación del discernimiento, adulterado con conceptos, y lo usamos para asfixiar lo real, como un hombre que cubre un trozo de cristal con mercurio para poder ver su propio reflejo y el de los demás, creyendo que ha encontrado una forma ingeniosa de ver la realidad. De hecho, no es más que un mono mirando un espejo: un mono se convierte en dos y seguirá jugando con su reflejo hasta que el mercurio se desvanezca, punto en el cual quedará alicaído, sin saber que el reflejo vino en primer lugar. Así es cuando obtenemos una imitación del discernimiento, inconscientemente, por pensar y hacer conjeturas según conceptos y preocupaciones: Nos encaminamos hacia la tristeza cuando la muerte se nos presenta cara a cara.  
+
+El factor crucial para el discernimiento natural viene solo de entrenar la mente para ser como un diamante que emite su propia luz –rodeado de brillo tanto en lugares oscuros como luminosos. Un espejo solo es útil en sitios ya bien iluminados. Si lo pones en la oscuridad no puedes usarlo para verte reflejado. Pero una joya tallada que emite su propia luz es brillante en cualquier sitio. Esto es lo que quería decir el Buddha cuando enseñaba que no hay sitios cerrados o secretos en el mundo donde el discernimiento no pueda penetrar. Esta joya del discernimiento es lo que nos permite destruir el ansía, el apego y la consciencia obscurecida, y logar la más alta excelencia: la Liberación –libre de dolor, muerte, aniquilación y extinción- existiendo de forma natural en la realidad de la inmortalidad (_amata-dhamma_).  
+
+En general, tendemos a interesarnos solo en el discernimiento y la liberación. A la mínima queremos empezar directamente con las enseñanzas sobre el estrés, la inconstancia y la ausencia del yo –y cuando es este el caso no llegaremos a ningún sitio. Antes de que el Buddha enseñase que las cosas no son constantes, el tuvo que trabajar para conocerlas hasta que ellas revelaron lo que era constante. Antes de enseñar que las cosas eran estresantes tuvo que transformar este estrés en placer y alivio. Y antes de enseñar que las cosas no tienen un yo tuvo que transformar lo que era sin yo en un yo, y así pudo ver lo que es constante y real, que permanece escondido en lo que es inconstante, estresante y sin yo. Luego reunió todas estas cualidades en una. Reunió todo lo que es inconstante, estresante y sin yo en una misma cosa: las fabricaciones (_sankhara_) vistas en términos mundanos –una sola clase, igual en cualquier parte del mundo.  Y en relación a lo que es constante, placentero y con un yo, esto era otra clase: fabricaciones vistas en términos del _Dhamma_. Y luego dejó ir ambas clases, sin quedar atrapado en “constante” o “inconstante”, “estrés” o “alivio”, “con yo” o “sin yo”. Por esto es por lo que podemos decir que alcanzó la libertad, la pureza, y la Liberación, porque no tuvo necesidad de aferrarse a las fabricaciones –ya fuesen mundanas o del _Dhamma_- en ninguna forma.  
+
+Esta fue la naturaleza de la práctica del Señor Buddha. Pero respecto a nuestra práctica, muchos de nosotros actuamos como si tuviésemos todo planeado de antemano y hubiésemos tenido éxito incluso antes de empezar. En otras palabras, queremos solo dejar ir y alcanzar la paz y la liberación. Pero si no hemos sentado las bases en su totalidad, nuestro dejar-ir va encaminado a ser defectuoso: nuestra paz va encaminada a estar fragmentada, nuestra liberación va encaminada a ser errónea. Aquellos de nosotros que sinceramente tienen buenas intenciones y quieren solo el bien más elevado deberían preguntarse a sí mismos ¿Hemos sentado las bases adecuadas? Si no hemos sentado las bases adecuadas para la liberación y el dejar ir ¿cómo seremos libres alguna vez?  
+
+El Buddha enseñó que la virtud puede superar las corrupciones comunes, las faltas burdas en nuestras palabras y actos; que la concentración puede superar corrupciones intermedias tales como los deseos sensoriales, la mala voluntad, el letargo, la inquietud y la duda; y que el discernimiento puede superar corrupciones sutiles como el anhelo, el apego y la consciencia obscurecida. Sin embargo algunas personas cuyo discernimiento es afilado, que pueden explicar con claridad sutiles puntos de la doctrina, parece que no pueden deshacerse de las corrupciones más comunes que incluso la virtud puede superar. Esto muestra que algo debe faltar en su virtud, concentración y discernimiento. Sus virtudes probablemente estén todas en la superficie, su concentración salpicada y teñida, su discernimiento embadurnado con brillo –como el cristal cubierto con mercurio- es por esto que no puede alcanzar la meta. Sus acciones siguen el viejo dicho: _Mantener la espada desenvainada_ –tener facilidad de palabra y teorías, pero sin un centro para la mente; _poner un huevo fuera del nido_ –buscar la bondad solo en el exterior, sin entrenar la mente a estar centrada; _apoyar la base en la arena_ –intentar encontrar seguridad en cosas que no tienen fundamento. Todo esto va encaminado hacia el tener decepciones. La gente así no ha encontrado todavía un refugio que merezca la pena.  
+
+Así que deberíamos sentar las bases y poner las causas en buen estado de funcionamiento, porque todos los logros que esperamos llegan al brotar de las causas.  
+
+> *Attana codayattanam
+> Patimanse tamattana*  
+
+> *Despierta. Entrena tu propio corazón.*  
+> *Empieza juzgando tu propia respiración.*  

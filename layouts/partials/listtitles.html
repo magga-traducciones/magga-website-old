@@ -1,0 +1,14 @@
+<hr>
+<ol>
+    {{ range .Sections }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+    {{ range .Pages }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ol>
+<hr><br>

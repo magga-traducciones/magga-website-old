@@ -1,28 +1,28 @@
 {{ define "main" }}
+
 {{if .Content}}
-{{ .Content }} 
-<ul>
-    {{ range .Pages }}
-    <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-</ul>
+{{ .Content }}
+{{ end }}
 
-{{else }}
+{{ partial "listtitles.html" . }}
+{{ partial "footer-ind.html" . }}
+
+
+{{if not .Content}}
 {{ $paginator := .Paginator }}
-
 <div class="extra-pagination inner">
-{{ partial "pagination.html" $paginator }}
+    {{ partial "pagination.html" $paginator }}
 </div>
 
+{{/* Esto está comentado
 {{ range $index, $page := $paginator.Pages }}
-   {{ .Render "li" }}
+{{ .Render "li" }}
 {{ end }}
+*/}}
 
 <div style="margin-bottom:2rem"></div>
 
 {{ partial "pagination.html" $paginator }}
 
-{{end}}
+{{ end }}
 {{end}}
