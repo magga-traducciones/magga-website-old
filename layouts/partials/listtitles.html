@@ -1,11 +1,11 @@
 <hr>
 <ol>
-    {{ range .Sections }}
+    {{ range .Pages }}
     <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
-    {{ range .Pages }}
+    {{ range .Sections }}
     <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>

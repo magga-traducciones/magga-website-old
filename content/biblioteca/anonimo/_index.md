@@ -1,7 +1,7 @@
 ---
 author: ""
-title: "Ajahn Sumedho"
-source: "https://https://www.amaravati.org/biographies/ajahn-sumedho/"
+title: "Anónimo"
+source: ""
 license: ""
 publisher: dhammamagga
 date: 2013-01-21 08:19:55+00:00

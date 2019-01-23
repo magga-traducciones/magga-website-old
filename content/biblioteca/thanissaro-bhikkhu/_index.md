@@ -1,24 +1,13 @@
-+++
-title = "Thanissaro Bhikkhu"
-+++
+---
+author: ""
+title: "Thanissaro Bhikkhu"
+source: "https://www.watmetta.org"
+license: ""
+publisher: dhammamagga
+date: 2013-01-21 08:19:55+00:00
+pubyear: 2019 
+weight: 0
+draft: false
+---
 
-
-  * [El observador](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/el-observador/)
-
-
-  * [Contemplación del cuerpo](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/tb-cuerpo/)
-
-
-  * [Sutta Gotami](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/sutta-gotami/)
-
-
-  * [Consolidando las verdades del corazón: samvega y pasada](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/consolidando-las-verdades-del-corazon/)
-
-
-  * [Dhammacakkappavattana sutta](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/dhammacakkappavattana-sutta/)
-
-
-  * [Jhana sin numerarlos](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/jhana-sin-numerarlos/)
-
-
-  * [Ansiedad social](https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/ansiedad-social/)
+{{< figure src="/media/a_thanissaro.jpg" width="70%">}}
