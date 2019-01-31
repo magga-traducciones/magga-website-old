@@ -6,5 +6,7 @@ theme = "docdock"
 title = "magga"
 enableGitInfo = true
 [params]
+disableHomeIcon = true
+disableSearch = true
 themeStyle = "flex"
 # themeVariant = "gold"
