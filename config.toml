@@ -5,7 +5,7 @@ ordersectionsby = "title"
 theme = "docdock"
 title = "magga"
 enableGitInfo = true
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-133551776-1"
 [params]
 disableHomeIcon = true
 disableSearch = true
