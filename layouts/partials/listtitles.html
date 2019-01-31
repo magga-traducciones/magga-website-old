@@ -1,5 +1,16 @@
+<style type="text/css">
+    div {
+        width="100%";
+        margin: 0 auto;
+    }
+
+    li {
+        text-align: center;
+        list-style: none
+    }
+</style>
 <hr>
-<ol>
+<ul>
     {{ range .Pages }}
     <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -10,5 +21,5 @@
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
-</ol>
+</ul>
 <hr><br>
