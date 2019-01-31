@@ -9,6 +9,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 4
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 > "*En la práctica del Dhamma todo lo que necesitamos es la atención.  

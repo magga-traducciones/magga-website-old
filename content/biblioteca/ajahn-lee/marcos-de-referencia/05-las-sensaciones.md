@@ -9,6 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 5
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 La palabra "sensación" se refiere al hecho de experimentar sensaciones que surgen de las acciones propias de cada uno, o kamma. Hay tres clases de sensaciones: sensaciones internas o estados de ánimo, sensaciones externas, y sensaciones en sí mismas.  

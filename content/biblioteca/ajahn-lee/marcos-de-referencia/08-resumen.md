@@ -9,6 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 8
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Los cuatro marcos de referencia se pueden reducir a dos: fenómenos físicos y mentales, o - de otra forma - cuerpo y mente. Incluso aunque estén divididos en cuatro, es solo el flujo mental lo que está dividido. Cuando llegas a la esencia de la práctica, todo se reduce al cuerpo y a la mente. Si quieres simplificar la práctica, deberías centrarte en investigar el cuerpo, y luego centrarte en investigar la mente.  

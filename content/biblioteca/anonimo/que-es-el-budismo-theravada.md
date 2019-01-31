@@ -8,6 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2009 
 weight: 1
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Theravada, la “Doctrina de los Ancianos”, es la escuela de budismo que basa su inspiración en las escrituras del Tipitaka o Canon Pali, sobre el que los académicos están en general de acuerdo en que contiene los registros supervivientes más antiguos de las enseñanzas del Buddha [^1]. Por muchos siglos, el Theravada ha sido la religión predominante en el Sudeste de Asia continental (Tailandia, Myanmar/Burma, Camboya, Laos) y Sri Lanka. Hoy en día los budistas theravadas ascienden a 100 millones en todo el mundo [^2]. En décadas recientes el Theravada ha empezado a echar raíces en Occidente.  

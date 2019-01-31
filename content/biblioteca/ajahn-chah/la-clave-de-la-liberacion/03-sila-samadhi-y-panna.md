@@ -9,6 +9,7 @@ date: 2008
 pubyear: 2008-2016 
 weight: 3
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 En cuanto a mí, he podido practicar sin gran cantidad de conocimientos teóricos. Es suficiente con saber que el camino comienza con sīla (moderación moral). Sīla es lo que es bonito al comienzo. Samādhi es lo que es bonito en el medio. Paññā (sabiduría) es lo que es bonito al final. Según vas profundizando en la práctica y contemplación de estos tres aspectos, se mezclan y se convierten en uno, aunque puedas todavía verlos como tres partes separadas de la práctica.  

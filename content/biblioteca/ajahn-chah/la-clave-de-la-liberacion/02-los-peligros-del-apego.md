@@ -9,6 +9,7 @@ date: 2008
 pubyear: 2008-2016 
 weight: 2
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Las herramientas y apoyos de la práctica conllevan apuros y dificultades. Debemos contar con paciencia y resistencia, moderación y frugalidad. Debemos hacer la práctica por nosotros mismos, para que surja del interior y realmente haga cambios en nuestras propias mentes.  

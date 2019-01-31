@@ -9,6 +9,7 @@ date: 2016
 pubyear: 2013-2019 
 weight: 12
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 ## (*Sammā-sati*)  

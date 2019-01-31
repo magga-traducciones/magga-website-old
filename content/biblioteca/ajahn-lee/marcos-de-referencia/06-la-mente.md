@@ -9,6 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 6
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Usando la mente como marco de referencia, hay tres aspectos a tratar:  

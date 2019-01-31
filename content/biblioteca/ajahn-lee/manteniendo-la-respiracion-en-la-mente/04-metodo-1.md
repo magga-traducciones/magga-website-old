@@ -9,6 +9,7 @@ date: 2013
 pubyear: 2013 
 weight: 4
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Siéntate en posición de medio loto, con la pierna derecha encima de la pierna izquierda, tus manos con las palmas hacia arriba en el regazo, la mano derecha encima de la izquierda. Levanta las manos respetuosamente, palma contra palma delante del corazón, y piensa en las cualidades del Buddha, el Dhamma y el Sangha: buddho me natho -el Buddha es mi soporte. Dhammo me natho -El Dhamma es mi soporte. Sangho me natho -El Sangha es mi soporte. Luego repite mentalmente buddho, buddho; dhammo, dhammo; sangho, sangho. Lleva las manos de Nuevo al regazo y repite mentalmente una palabra, buddho, tres veces.  

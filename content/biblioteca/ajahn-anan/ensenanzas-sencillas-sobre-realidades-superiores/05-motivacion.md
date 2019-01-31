@@ -9,6 +9,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2013 
 weight: 5
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 > "*La gente debería pensar en como serían sus vidas si no meditasen. ¿Cómo serían sus corazones? ¿Y qué habrían desarrollado en sus corazones para llevarse a la siguiente vida? Porque la siguiente vida es solo tan buena como la hagamos en esta.  

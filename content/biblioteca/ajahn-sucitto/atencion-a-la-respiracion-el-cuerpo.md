@@ -9,6 +9,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2017 
 weight: 1
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 La atención a la inhalación y a la exhalación es la meditación más detallada y progresiva que dio el Buddha, ratificada por él como una práctica que lleva al Despertar completo. En el sutta que recoge estas instrucciones [M.118], estas se presentan en grupos de cuatro. Estos grupos están formados a su vez por grupos de instrucciones progresivas sobre la atención a la respiración, cubriendo las formas en las que la respiración afecta y modera las energías corporales, mentales (emocionales y sicológicas) y la consciencia. Los cuatro grupos de cuatro tienen un enfoque diferente, como se verá en la Tercera Parte.  

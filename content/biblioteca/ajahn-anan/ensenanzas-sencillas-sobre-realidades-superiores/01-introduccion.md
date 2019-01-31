@@ -1,4 +1,4 @@
-———
+---
 author: "Ajahn Anan"
 title: "Introducción"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
@@ -9,7 +9,8 @@ date: 2013—01—21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 1
 draft: false
-———
+googleAnalytics: UA-133551776-1
+---
 
 La mente ha estado dando vueltas toda la mañana intentando solucionarlo todo. Nos gustaría seguir con nuestra meditación, pero necesitamos solucionar esto primero. Es sobre la práctica. Meditar parece más difícil estos días: menos notable, menos relajante. Al final ha habido mucho pensamiento no solicitado. Algo ha estado haciendo surgir preocupaciones, posibilidades, viejos recuerdos, letras de canciones... ¿No habíamos ido más allá de esto? Aunque no importa. Probablemente solo necesitemos un cambio de escenario.  
 

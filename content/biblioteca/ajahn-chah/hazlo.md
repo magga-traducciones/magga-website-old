@@ -9,6 +9,7 @@ date: 2008
 pubyear: 2008-2013 
 weight: 1
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 > *Una charla en directo, en dialecto Lao, dada a una Asamblea de Monjes recién ordenados en Wat Pah Pong, en el día del comiendo del Retiro de las Lluvias, en Julio de 1978.*  

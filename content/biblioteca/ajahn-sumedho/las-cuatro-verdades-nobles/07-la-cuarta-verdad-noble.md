@@ -8,7 +8,8 @@ publisher: "dhammamagga"
 date: 2009
 pubyear: 2009 
 weight: 7
-draft: true
+draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 _¿Cuál es la Verdad Noble del Camino que lleva al Cese del Sufrimiento? Es el Noble Sendero Óctuple, esto es: Entendimiento Correcto, Intención Correcta, Palabra Correcta, Acción Correcta, Modo de Vida Correcto, Esfuerzo Correcto, Atención Correcta y Concentración Correcta._  

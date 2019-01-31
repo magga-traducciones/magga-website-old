@@ -8,6 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2008-2013 
 weight: 1
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 _"No dependas de lo que has oído proclamar, o de las costumbres, o de los rumores, o de lo escrito, o de los principios deducidos o establecidos, o del razonamiento inteligente, o de una teoría preferida o favorable. No te dejes convencer por la aparente inteligencia de otros, ni por respeto a un maestro... Cuando tú por ti mismo sepas lo que es malo, tonto y sin valor, y lo que lleva al dolor y al descontento, abandónalo... Y cuando tú por ti mismo sepas lo que es bueno, desarróllalo"._  

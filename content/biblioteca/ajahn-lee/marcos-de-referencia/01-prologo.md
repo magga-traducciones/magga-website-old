@@ -9,6 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 1
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Phra Ajaan Lee nació en 1906 en un pueblo rural en la provincia de Ubon Ratchathani, en el noreste de Tailandia. A la edad de 20 años fue ordenado como monje en un templo de su propio pueblo, y allí comenzó su estudio de la doctrina Budista y la disciplina monástica. Descubrió, muy a su pesar, que la vida en su templo - y en la mayoría de templos de Tailandia en aquella época - tenía poco que ver con la práctica de las enseñanzas del Buddha. Como escribió más tarde en su autobiografía, "En vez de cumplir las tareas de la vida contemplativa, salíamos a divertirnos: jugando al ajedrez, luchando, jugando a juegos con las chicas siempre que había oportunidad... Siempre que miraba en los libros de disciplina monástica, empezaba a sentirme realmente incómodo. Me decía a mí mismo, 'Si no quieres dejar de ser monje, vas a tener que dejar este templo.'"  

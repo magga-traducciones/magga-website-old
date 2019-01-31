@@ -1,6 +1,7 @@
 {{/* Pie de página individual de cada archivo */}}
 <p style="text-align: center;">
     {{ if ne .Params.title "Biblioteca" }}
+    {{ if ne .Params.title "magga traducciones" }}
     {{ if .Params.Author }}  
             {{if .Params.Booktitle }}
                 <small>Fuente: <a href="{{.Params.Source}}" target="_blank" rel="noopener">{{.Params.Author}} - {{.Params.BookTitle}}</a></small><br>
@@ -12,5 +13,6 @@
     {{ end }}
     <small>{{.Params.Publisher}} {{.Params.Pubyear}}</small><br>
     <small>{{ partial "inslicense.html" . }}</small><br>
+    {{ end }}
     {{ end }}
 </p>

@@ -9,6 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 9
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Las definiciones dadas aquí están basadas en los significados que estos términos tienen en los sermones y escritos de Ajaan Lee.  

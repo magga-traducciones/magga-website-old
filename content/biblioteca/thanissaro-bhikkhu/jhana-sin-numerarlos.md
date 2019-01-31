@@ -8,6 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2012-2013 
 weight: 0
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Cuando fui a estudiar por primera vez con mi maestro, Ajaan Fuang, me entregó un pequeño folleto con instrucciones de meditación y me envió arriba a la colina que hay detrás del monasterio. El folleto -escrito por su maestro, Ajaan Lee- comenzaba con una técnica de meditación con la respiración y concluía con una sección mostrando como la técnica se usaba para inducir los primeros cuatro niveles de jhana.  

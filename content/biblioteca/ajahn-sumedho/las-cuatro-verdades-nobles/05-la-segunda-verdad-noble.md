@@ -8,7 +8,8 @@ publisher: "dhammamagga"
 date: 2009
 pubyear: 2009 
 weight: 5
-draft: true
+draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 _¿Cuál es la Verdad Noble del Origen del Sufrimiento? Es el deseo que renueva al ser y está acompañado por el deleite y la lujuria, deleitándose  en esto y aquello: en otras palabras, anhelando los deseos de los sentidos, deseando el ser, deseando el no-ser. Pero ¿dónde surge y florece este deseo? Donde sea que haya lo que parece deseable y gratificante, allí surge y florece._  

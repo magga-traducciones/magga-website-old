@@ -8,5 +8,6 @@ publisher: ""
 date: {{ .Date }}
 pubyear: 2019 
 weight: 0
-draft: true
+draft: false
+googleAnalytics: UA-133551776-1
 ---

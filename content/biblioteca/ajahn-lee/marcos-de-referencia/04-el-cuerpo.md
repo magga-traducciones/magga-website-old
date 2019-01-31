@@ -9,6 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 4
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 El término "cuerpo" aquí se refiere a conglomerados de cuatro propiedades, tanto aquellos que tienen la conciencia dirigiéndolos como aquellos que no la tienen, pero que todavía aparecen a la vista. Ambos tipos se denominan cuerpos físicos (rupa-kaya). Los cuerpos físicos se pueden considerar bajo tres aspectos:  

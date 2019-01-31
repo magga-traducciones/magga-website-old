@@ -1,9 +1,10 @@
 baseURL = ""
 languageCode = "es-es"
+DefaultContentLanguage = "es"
 ordersectionsby = "title"
 theme = "docdock"
 title = "magga"
+enableGitInfo = true
 [params]
 themeStyle = "flex"
 # themeVariant = "gold"
-

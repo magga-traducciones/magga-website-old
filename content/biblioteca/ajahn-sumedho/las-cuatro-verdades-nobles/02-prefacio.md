@@ -8,7 +8,8 @@ publisher: "dhammamagga"
 date: 2009
 pubyear: 2009 
 weight: 2
-draft: true
+draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 Este pequeño libro fue recopilado y editado de charlas ofrecidas por el Venerable Ajahn Sumedho sobre la enseñanza central del Buddha: que la infelicidad de la humanidad puede ser vencida por medios espirituales.  

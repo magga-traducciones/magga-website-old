@@ -8,7 +8,8 @@ publisher: "dhammamagga"
 date: 2009
 pubyear: 2009 
 weight: 1
-draft: true
+draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 _Una vez el Bendito estaba viviendo en un bosque de árboles simsapa en Kosambi. Tomó un puñado de hojas en su mano y les preguntó a los bhikkhus, ‘¿Qué opináis, bhikkhus?, ¿qué son más, las pocas hojas que he cogido en mi mano o las de los árboles del bosque?’_  

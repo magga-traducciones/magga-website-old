@@ -8,5 +8,6 @@ publisher: "dhammamagga"
 date: 2009
 pubyear: 2009 
 weight: 0
-draft: true
+draft: false
+googleAnalytics: UA-133551776-1
 ---

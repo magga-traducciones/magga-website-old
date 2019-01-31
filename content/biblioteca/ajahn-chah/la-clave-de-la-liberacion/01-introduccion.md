@@ -9,6 +9,7 @@ date: 2008
 pubyear: 2008-2016 
 weight: 1
 draft: false
+googleAnalytics: UA-133551776-1
 ---
 
 > *La siguiente charla sobre el Dhamma fue dada de forma informal a un monje erudito que había ido a ofrecer sus respetos al Venerable Ajahn Chah.*
