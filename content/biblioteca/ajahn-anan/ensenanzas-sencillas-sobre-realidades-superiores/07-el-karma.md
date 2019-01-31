@@ -4,7 +4,7 @@ title: "El karma - Acciones y sus resultados"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
 license: "Copyright © Watmarpjan"
-publisher: dhammamagga
+publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013 
 weight: 7

@@ -8,7 +8,7 @@ publisher: "maga traducciones"
 date: 2015
 pubyear: 2013-2019
 weight: 6
-draft: true
+draft: false
 ---
 ## *(sammā-diṭṭhi)*  
 

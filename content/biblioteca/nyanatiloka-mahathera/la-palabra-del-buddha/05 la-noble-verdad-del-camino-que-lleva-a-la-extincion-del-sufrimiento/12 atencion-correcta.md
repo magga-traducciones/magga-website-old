@@ -8,7 +8,7 @@ publisher: "magga traducciones"
 date: 2016
 pubyear: 2013-2019 
 weight: 12
-draft: true
+draft: false
 ---
 
 ## (*Sammā-sati*)  

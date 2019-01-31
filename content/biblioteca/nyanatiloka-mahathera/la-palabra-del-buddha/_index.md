@@ -8,7 +8,7 @@ publisher: "maga traducciones"
 date: 2013
 pubyear: 2013 
 weight: 0
-draft: true
+draft: false
 ---
 
 Compilado, traducido y explicado por Nyānatiloka Mahāthera

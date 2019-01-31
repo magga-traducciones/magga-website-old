@@ -4,7 +4,7 @@ title: "Motivación - ¿Por qué practicar?"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
 license: "Copyright © Watmarpjan"
-publisher: dhammamagga
+publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013 
 weight: 5
@@ -12,7 +12,7 @@ draft: false
 ---
 
 > "*La gente debería pensar en como serían sus vidas si no meditasen. ¿Cómo serían sus corazones? ¿Y qué habrían desarrollado en sus corazones para llevarse a la siguiente vida? Porque la siguiente vida es solo tan buena como la hagamos en esta.  
-> Si no aprovechas tu oportunidad para meditar en esta vida, ¿Por qué deberías esperar tener la misma oportunidad en la siguiente vida? Puede que no consigas otra oportunidad tan buena como esta otra vez.*"  
+> Si no aprovechas tu oportunidad para meditar en esta vida, ¿Por qué deberías esperar tener la misma oportunidad en la siguiente? Puede que no consigas otra oportunidad tan buena como esta otra vez.*"  
 > **Ajahn Paññavadho**  
 
 ---

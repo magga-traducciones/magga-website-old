@@ -8,7 +8,7 @@ publisher: "maga traducciones"
 date: 2015
 pubyear: 2013-2018 
 weight: 5
-draft: true
+draft: false
 ---
 
 ## Los dos extremos y el camino medio  

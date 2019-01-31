@@ -8,7 +8,7 @@ publisher: "maga traducciones"
 date: 2016
 pubyear: 2013-2019 
 weight: 13
-draft: true
+draft: false
 ---
 
 ## (Sammā-samādhi)  

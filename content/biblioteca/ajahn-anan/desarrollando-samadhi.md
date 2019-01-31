@@ -3,7 +3,7 @@ author: "Ajahn Anan"
 title: "Desarrollando Samādhi"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
 license: "Copyright © Watmarpjan"
-publisher: magga traducciones
+publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 1
