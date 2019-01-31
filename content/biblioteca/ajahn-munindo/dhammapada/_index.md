@@ -11,11 +11,3 @@ weight: 0
 draft: false
 googleAnalytics: UA-133551776-1
 ---
-
-
-
-
-* [Descarga en epub y mobi desde la web forestsanghapublications.org](https://forestsangha.org/teachings/books/un-dhammapada-para-la-contemplacion?language=Espa%C3%B1ol)
-
-
-* [En iTunes](https://itunes.apple.com/es/book/dhammapada-para-la-contemplacion/id561114414?mt=11)
