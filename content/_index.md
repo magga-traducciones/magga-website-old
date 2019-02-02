@@ -2,9 +2,6 @@
 title: "magga"
 ---
 
-<link rel="alternate" type="application/rss+xml" href="https://magga.es/index.xml" title="magga">
-
-
 En este sitio están disponibles las traducciones realizadas por el grupo *magga traducciones* sobre budismo, meditación y otros temas relacionados con el desarrollo interior, cultivo mental, o como queramos llamarlo.  
 
 Puedes acceder al contenido navegando por el menu de la izquierda.  

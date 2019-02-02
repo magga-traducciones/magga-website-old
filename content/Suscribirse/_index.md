@@ -13,5 +13,10 @@ Si quieres recibir un aviso por correo de las nuevas publicaciones introduce tu 
   <label for="email-address"></label>
   <input type="email" id="email" name="email" required>
    <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
-    <button type="submit">Enviar</button>
+    <button class="btn btn-success" type="submit">Enviar</button>
 </form>
+---  
+
+Para suscribirse via RSS 
+
+<a href="https://magga.es/index.xml" class="btn btn-success">Suscribirse</a>
