@@ -4,7 +4,7 @@ title: "Consolidando las verdades del corazón"
 source: "http://www.accesstoinsight.org/lib/authors/thanissaro/affirming.html"
 license: "BY-NC"
 publisher: dhammamagga
-date: 2013-01-21 08:19:55+00:00
+date: 2019-01-01
 pubyear: 2011-2013 
 weight: 0
 draft: false

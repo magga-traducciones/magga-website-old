@@ -5,7 +5,7 @@ booktitle: "Las Cuatro Verdades Nobles"
 source: "https://forestsangha.org/teachings/books/the-four-noble-truths?language=English"
 license: "BY-NC-ND"
 publisher: "dhammamagga"
-date: 2009
+date: 2019-01-01
 pubyear: 2009 
 weight: 4
 draft: false

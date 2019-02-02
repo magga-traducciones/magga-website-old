@@ -5,7 +5,7 @@ booktitle: "La Palabra del Buddha"
 source: "http://www.enabling.org/ia/vipassana/Archive/N/Nyanatiloka/WOB/index.html"
 license: "BY-NC-ND"
 publisher: "maga traducciones"
-date: 2015
+date: 2019-01-01
 pubyear: 2013-2018 
 weight: 5
 draft: false

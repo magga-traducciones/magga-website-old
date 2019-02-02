@@ -4,7 +4,7 @@ title: "¿Qué es el budismo theravada?"
 source: "https://www.accesstoinsight.org/theravada.html"
 license: "BY"
 publisher: dhammamagga
-date: 2013-01-21 08:19:55+00:00
+date: 2019-01-01
 pubyear: 2009 
 weight: 1
 draft: false

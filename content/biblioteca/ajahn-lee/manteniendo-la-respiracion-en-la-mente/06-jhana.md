@@ -5,7 +5,7 @@ booktitle: "Manteniendo la respiración en la mente"
 source: "https://www.accesstoinsight.org/lib/thai/lee/inmind.html"
 license: "BY-NC-SA"
 publisher: "dhammamagga"
-date: 2015
+date: 2019-01-01
 pubyear: 2015 
 weight: 6
 draft: false

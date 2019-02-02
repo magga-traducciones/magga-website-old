@@ -4,7 +4,7 @@ title: "Ajahn Lee"
 source: "https://www.accesstoinsight.org/lib/thai/lee/index.html"
 license: "Copyright© 2005 Access to Insight"
 publisher: dhammamagga
-date: 2013-01-21 08:19:55+00:00
+date: 2019-01-01
 pubyear: 2010 
 weight: 0
 draft: false

@@ -5,7 +5,7 @@ booktitle: "Marcos de referencia"
 source: "http://www.accesstoinsight.org/lib/thai/lee/frames.html"
 license: "BY-NC-SA"
 publisher: "dhammamagga"
-date: 2010
+date: 2019-01-01
 pubyear: 2010 
 weight: 9
 draft: false

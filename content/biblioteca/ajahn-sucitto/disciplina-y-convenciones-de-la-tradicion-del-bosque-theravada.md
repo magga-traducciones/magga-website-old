@@ -4,7 +4,7 @@ title: "Disciplina y convenciones de la tradición del bosque theravada"
 source: "https://https://www.amaravati.org/"
 license: "Copyright Forest Sangha Publications"
 publisher: dhammamagga
-date: 2013-01-21 08:19:55+00:00
+date: 2019-01-01
 pubyear: 2008-2013 
 weight: 2
 draft: false

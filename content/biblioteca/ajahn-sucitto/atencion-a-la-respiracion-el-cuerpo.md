@@ -5,7 +5,7 @@ booktitle: "Meditation - A way of awakening"
 source: "https://forestsangha.org/teachings/books/meditation-a-way-of-awakening?language=English"
 license: "© Amaravati Publications 2011"
 publisher: dhammamagga
-date: 2013-01-21 08:19:55+00:00
+date: 2019-01-01
 pubyear: 2013-2017 
 weight: 1
 draft: false

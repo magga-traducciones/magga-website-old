@@ -4,7 +4,7 @@ title: "Desarrollando Samādhi"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
 license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
-date: 2013-01-21 08:19:55+00:00
+date: 2019-01-01
 pubyear: 2013-2019
 weight: 1
 draft: false
