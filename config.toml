@@ -9,6 +9,6 @@ enableGitInfo = true
 [params]
 themeStyle = "flex"
 disableHomeIcon = false
-disableSearch = false
+disableSearch = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
