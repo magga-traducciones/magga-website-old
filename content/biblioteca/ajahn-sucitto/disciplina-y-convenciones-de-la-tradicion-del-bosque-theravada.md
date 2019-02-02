@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2008-2013 
 weight: 2
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 # Una guía para el Sangha de occidente  
 
 **Nota**  

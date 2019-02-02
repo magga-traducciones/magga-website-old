@@ -6,23 +6,21 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 6
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 76  
 Solo pueden surgir las bendiciones  
 por buscar la compañia  
 de personas sabias y con discernimiento,  
-que hábilmente ofrecen  
-adventencias y consejo  
+que hábilmente ofrecen advertencias y consejo  
 como si guiasen a uno hacia un tesoro escondido.
 
 77  
-Dejemos que el sabio guie a los seres  
-lejos de la oscuridad,  
+Dejemos que el sabio   
+guie a los seres lejos de la oscuridad,  
 dirija y aconseje.  
 Serán altamente apreciados por los virtuosos  
 y menospreciados por los tontos.
@@ -42,29 +40,28 @@ El sabio se deleita permanentemente en la verdad
 enseñada por el Despierto.
 
 80  
-Aquellos que construyen canales  
-encauzan el flujo del agua.  
+Aquellos que construyen canales encauzan el flujo del agua.  
 Los flecheros hacen flechas.  
 Los carpinteros trabajan la madera.  
 Los sabios se adiestran a sí mismos. 
 
 81  
-Como una roca sólida  
-no es sacudida por el viento,  
+Como una roca sólida,  
+que no es sacudida por el viento,  
 así son aquellos con sabiduría imperturbable  
 ya sea ante el elogio o el reproche.
 
 82  
 Al oir enseñanzas veraces,  
-los corazones de aquellos que son receptivos,  
-se serenan -   
+los corazones de aquellos que son receptivos  
+se serenan,  
 como un lago, profundo, claro y en calma.
 
 83  
 Los seres virtuosos no tienen ataduras.  
 No se complacen en el habla negligente  
 sobre los placeres sensuales.  
-Ellos experimentan ambas alegría y pena  
+Experimentan ambas, alegría y pena,  
 pero no son poseidos por ninguna de ellas.  
 
 84  
@@ -78,13 +75,11 @@ justo, virtuoso y sabio.
 85  
 Pocos son los que alcanzan lo desconocido.  
 La mayoría andan adelante y atrás,  
-sin atreverse a arriesgar el viaje.
+sin atreverse a arriesgarse a viajar.
 
 86  
-Aunque es dificil atravesar  
-el tormentoso mar de las pasiones,  
-aquellos que viven de acuerdo  
-al Camino bien enseñado  
+Aunque es dificil atravesar el tormentoso mar de las pasiones,  
+aquellos que viven de acuerdo al Camino bien enseñado  
 llegan a lo desconocido.
 
 87 - 88  

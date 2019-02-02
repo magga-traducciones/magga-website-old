@@ -6,10 +6,9 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 25
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 360  
@@ -23,25 +22,20 @@ Es bueno ser moderado en cuerpo.
 Es bueno ser moderado en habla.  
 Es bueno ser moderado en mente.  
 Es bueno ser moderado en todo.  
-El renunciante que es moderado  
-en todos los aspectos realizará la liberación  
-del sufrimiento.  
+El renunciante que es moderado en todos los aspectos  
+realizará la liberación del sufrimiento.  
 
 362  
-Aquel que está correctamente disciplinado  
-en todas las acciones,  
-que está sereno,  
-contenido y se deleita en  
-la contemplación solitaria  
-—ese es un renunciante.  
+Aquel que está correctamente disciplinado en todas las acciones,  
+que está sereno, contenido,  
+y se deleita en la contemplación solitaria,  
+ese es un renunciante.  
 
 363  
-Es agradable escuchar  
-las palabras de un renunciante  
+Es agradable escuchar las palabras de un renunciante  
 que es sabio, no exagera,  
 cuya mente es serena  
-y cuyo habla es contenido  
-y claro en significado.   
+y cuyo habla es contenido y claro en significado.   
 
 364  
 Aquel que se atiene al Dhamma,  
@@ -65,86 +59,62 @@ serás tenido en alta estima.
 Los verdaderos renunciantes  
 contemplan el cuerpo-mente completo  
 sin ningún pensamiento de ‘yo’ o ‘mío’  
-y carecen de añoranza  
-por aquello que no tienen.  
+y carecen de añoranza por aquello que no tienen.  
 
 368  
-Un renunciante que  
-mora en la buena voluntad  
-con un corazón lleno de devoción  
-hacia la enseñanza del Buddha  
+Un renunciante que mora en la buena voluntad  
+con un corazón lleno de devoción hacia la enseñanza del Buddha  
 encontrará paz, tranquilidad y dicha.  
 
 369  
 Achica el agua de tu barca;  
-suelta las pasiones contaminantes  
-de la codicia y el odio;  
-libre de carga, navega  
-hacia la liberación.  
+suelta las pasiones contaminantes de la codicia y el odio;  
+libre de carga, navega hacia la liberación.  
 
 370  
-El que ha  
-cortado los apegos burdos,  
+El que ha cortado los apegos burdos,  
 cortado los apegos sutiles,  
 que cultiva las facultades espirituales,  
-es el que encuentra la liberación  
-del engaño.  
+es el que encuentra la liberación del engaño.  
 
 371  
 ¡Ten cuidado!  
 no descuides la meditación,  
-ni permitas a la mente  
-morar en la sensualidad  
+ni permitas a la mente morar en la sensualidad  
 no sea que puedas tragar sin darte cuenta  
-una bola de hierro al rojo vivo  
-y te encuentres gritando  
+una bola de hierro al rojo vivo y te encuentres gritando  
 “¿Por qué estoy sufriendo?”  
 
 372  
-La concentración no surge  
-sin entendimiento,  
-ni el entendimiento  
-sin la concentración.  
-El que conoce ambas  
-se acerca a la liberación.  
+La concentración no surge sin entendimiento,  
+ni el entendimiento sin la concentración.  
+El que conoce ambas se acerca a la liberación.  
 
 373  
 Una felicidad que trasciende la dicha común  
 es experimentada por aquellos renunciantes  
-que han entrado en retiro  
-con un corazón tranquilo  
+que han entrado en retiro con un corazón tranquilo  
 y un entendimiento claro del Camino.   
 
 374  
 Cuando aquellos que son sabios  
-moran contemplando  
-la naturaleza transitoria  
-del cuerpo-mente,  
+moran contemplando la naturaleza transitoria del cuerpo-mente,  
 y de toda la existencia condicionada,  
 experimentan alegría y deleite  
-penetrando  
-hasta lo intrínsecamente seguro.  
+penetrando hasta lo intrínsecamente seguro.  
 
 375 - 376  
-Este es entonces el principio  
-para un renunciante  
-que empieza el entrenamiento:  
+Este es entonces el comienzo para un renunciante que empieza el entrenamiento:  
 controla sabiamente tus facultades,  
 comprométete con la instrucción,  
 busca el contentamiento;  
-cultiva la compañía de aquellos  
-que apoyan tu aspiración  
-por la práctica enérgica de las enseñanzas.  
-La belleza de la conducta pura  
-condiciona el pleno bienestar  
-haciendo surgir la   
-liberación completa del remordimiento.  
+cultiva la compañía de aquellos que apoyan tu aspiración por la práctica enérgica de las enseñanzas.  
+La belleza de la conducta pura condiciona el pleno bienestar  
+haciendo surgir la liberación completa del remordimiento.  
 
 377  
-Como caen las viejas flores  
-de una planta de jazmín  
-deja que la codicia y el odio  
-caigan.   
+Como caen las viejas flores de una planta de jazmín  
+deja que caigan la codicia y el odio.  
 
 378  
 Los llamo los tranquilos,  
@@ -156,8 +126,7 @@ de todas las obsesiones mundanas.
 379  
 Escudríñate a ti mismo.  
 Examínate a ti mismo.  
-Con atención correcta  
-en la autoevaluación  
+Con atención correcta en la autoevaluación  
 vivirás a gusto.  
 
 380  
@@ -168,14 +137,13 @@ Así que con el debido cuidado
 nos ocupamos de nosotros mismos.  
 
 381  
-Un monje, una monja, que cultiva  
-una disposición alegre  
-y está repleto de  
-confianza en el Camino  
+Un monje, una monja,  
+que cultiva una disposición alegre  
+y está pleno de confianza en el Camino  
 encontrará paz, quietud y dicha.  
 
 382  
-Aunque todavía joven, un renunciante  
-dedicado por completo al Camino  
-iluminará al mundo  
+Aunque todavía joven,  
+un renunciante dedicado por completo al Camino  
+iluminará al mundo 
 como la luna saliendo entre las nubes.  

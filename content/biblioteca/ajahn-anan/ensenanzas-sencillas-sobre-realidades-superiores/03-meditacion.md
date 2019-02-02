@@ -3,15 +3,13 @@ author: "Ajahn Anan"
 title: "Meditación - El desarrollo de la mente"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
-license: "Copyright © Watmarpjan"
+license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 3
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 > "*La Concentración no surge sin la sabiduría,  
 > ni la sabiduría sin concentración.  
 > Quien conoce ambas se acerca a la liberación.*"  
@@ -24,7 +22,7 @@ googleAnalytics: UA-133551776-1
 
 Para prepararte para la meditación sentada coloca la pierna derecha encima de la pierna izquierda y la mano derecha encima de la mano izquierda. Siéntate erguido pero cómodo, balanceado y relajado. Si ves que esta postura no te resulta apropiada puedes sentarte como te sea más cómodo, incluso sentarte en una silla si es necesario. No te inclines ni muy a la izquierda, ni muy a la derecha, ni hacia delante, ni hacia atrás. No inclines la cabeza muy hacia atrás o la dejes colgando. Cierra los ojos lo suficiente para que no te sientas tenso o rígido.  
 
-**Siguiendo y Contando la Respiración**  
+**Siguiendo y Contando la Respiración** 
 
 Primero centra tu atención en seguir la inspiración a medida que pasa por tres puntos —comenzando en la nariz, bajando por el corazón y finalizando en el ombligo— y en segundo lugar siguiendo la espiración en orden inverso —comenzando en el ombligo, subiendo por el corazón y finalizando en la punta de la nariz. Una vez consciente de la inspiración y la espiración y pudiendo centrar tu atención en estos tres puntos, continúa siendo consciente claramente de la inspiración y la espiración solo en la punta de la nariz. Mantén la atención en la sensación de la respiración centrándote solo en este único punto.  
 

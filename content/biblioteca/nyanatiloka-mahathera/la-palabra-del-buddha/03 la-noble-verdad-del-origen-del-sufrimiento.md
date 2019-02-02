@@ -9,9 +9,7 @@ date: 2013
 pubyear: 2013-2019
 weight: 3
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 D.22  
 
 ¿Y qué es entonces la noble verdad del origen del sufrimiento? Es el anhelo, que da lugar a un nuevo nacimiento, y, ligado al placer y a la pasión, ahora aquí, ahora allí, encuentra un deleite siempre nuevo.  

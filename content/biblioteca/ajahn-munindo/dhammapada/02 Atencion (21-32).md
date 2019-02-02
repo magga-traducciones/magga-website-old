@@ -6,10 +6,9 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"  
 publisher: "dhammamagga"  
 date: 2010  
-pubyear: 2010   
+pubyear: 2010-2019   
 weight: 2  
 draft: false  
-googleAnalytics: UA-133551776-1  
 ---      
   
 21  
@@ -31,8 +30,7 @@ y conocen el estar libres de la esclavitud:
 liberación, seguridad verdadera.  
 
 24    
-Aquellos que están enérgicamente  
-comprometidos con el Camino,  
+Aquellos que están enérgicamente comprometidos con el Camino,  
 que son puros y considerados en esfuerzo,  
 serenos y virtuosos en conducta,  
 aumentan con firmeza su resplandor.   
@@ -46,23 +44,20 @@ que ninguna inundación pueda arrollar.
 26  
 Aquellos que son insensatos y están confundidos  
 se extravían hacia la negligencia.  
-Los sabios atesoran la atención  
-que han cultivado  
+Los sabios atesoran la atención que han cultivado  
 como su posesión más preciosa.   
   
 27  
 "No te pierdas en la negligencia,  
 no te pierdas en la sensualidad."  
 Haciendo caso a este consejo,  
-el contemplativo descubre  
-una profunda liberación.  
+el contemplativo descubre una profunda liberación.  
   
 28    
 Aquellos, Los Despiertos,  
-que han saboreado la libertad  
-de toda distracción  
+que han saboreado la libertad de toda distracción  
 a traves del cultivo de la atención,  
-ven a todos los que están sufriendo  
+ven a todos los que están sufriendo 
 desde una perspectiva compasiva,  
 como uno en la cima de la montaña  
 es capaz de ver las llanuras.  
@@ -88,5 +83,5 @@ consumiendo los obtaculos grandes y pequeños.
 32    
 El renunciante que se deleita en la vigilancia  
 y rechaza la negligencia  
-se protege de retroceder:  
+se protege contra el retroceso:  
 alguien así se dirige hacia la liberación.  

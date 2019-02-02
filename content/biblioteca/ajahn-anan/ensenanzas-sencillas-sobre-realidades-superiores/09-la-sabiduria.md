@@ -3,15 +3,13 @@ author: "Ajahn Anan"
 title: "La sabiduría - Conocimiento intuitivo de la Realidad"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
-license: "Copyright © Watmarpjan"
+license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013 
 weight: 9
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 > "*Es la sabiduría la que permite dejar ir una felicidad menor  
 > en búsqueda de una felicidad que es superior.*"  
 > **El Buddha**

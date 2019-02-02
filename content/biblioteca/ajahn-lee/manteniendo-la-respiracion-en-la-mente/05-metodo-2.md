@@ -9,9 +9,7 @@ date: 2013
 pubyear: 2013 
 weight: 5
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 Hay siete pasos básicos:
 
 > 1. Comienza con tres o siete respiraciones largas,  piensa “bud-“ con la inhalación y “–dho” con la exhalación. Mantén la sílaba meditativa mientras dure la respiración.

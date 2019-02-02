@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2019 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 **10 de septiembre de 2005**
 
 En una de las últimas charlas de Ajaan Lee sobre el Dhamma comparó la vida con navegar por el océano. El problema en el océano es que no hay agua fresca. Para la mayoría de nosotros la meditación es como detenerse en un puerto, coger algo de agua fresca, y ponerla en la barca. Luego salimos al mar y descubrimos que nos hemos quedado sin agua, teniendo que volver a puerto. El resultado es que no llegamos muy lejos. Si no tenemos cuidado los vientos nos alejarán de la costa, y nos encontraremos sin agua.  

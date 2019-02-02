@@ -2,15 +2,13 @@
 author: ""
 title: "Ajahn Anan"
 source: "https://watmarpjan.org/en/ajahn-anan/"
-license: "Copyright © Wat Marp Jan"
+license: "Copyright © www.watmarpjan.org"
 publisher: dhammamagga
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 {{< figure src="/media/a_anan.png" width="40%">}}
 
 Ajahn Anan Akiñcano se ordena como Bhikkhu el 3 de Julio de 1975 teniendo como preceptor y maestro a Ajahn Chah, praticando bajo su tutela. En 1984 se establece en lo que es hoy Wat Marp Jan.  

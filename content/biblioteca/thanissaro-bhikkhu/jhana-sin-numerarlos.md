@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2012-2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 Cuando fui a estudiar por primera vez con mi maestro, Ajaan Fuang, me entregó un pequeño folleto con instrucciones de meditación y me envió arriba a la colina que hay detrás del monasterio. El folleto -escrito por su maestro, Ajaan Lee- comenzaba con una técnica de meditación con la respiración y concluía con una sección mostrando como la técnica se usaba para inducir los primeros cuatro niveles de jhana.  
 
 En los años siguientes, vi a Ajaan Fuang entregar el mismo folleto a cada uno de sus nuevos estudiantes, laicos y ordenados. A pesar de la detallada descripción de jhana del folleto, él mismo rara vez mencionaba la palabra jhana en sus conversaciones, y nunca daba indicios a ninguno de sus estudiantes de que habían alcanzado un nivel particular de jhana en su práctica. Cuando un estudiante le hablaba sobre una experiencia meditativa recurrente, a él le gustaba discutir no sobre lo que había sido, sino sobre qué hacer con ello: en qué centrarse, qué desechar, qué cambiar, qué mantener igual. Luego enseñaría al estudiante cómo experimentar con ello -para hacerlo incluso más estable y apacible- y como juzgar los resultados de los experimentos. Si sus estudiantes querían medir sus progresos en relación a las descripciones de jhana que había en el folleto, era asunto suyo y nunca de él. Nunca decía esto con muchas palabras, pero dada la forma en la que enseñaba, el mensaje implícito estaba claro.  

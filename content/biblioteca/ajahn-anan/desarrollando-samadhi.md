@@ -2,15 +2,13 @@
 author: "Ajahn Anan"
 title: "Desarrollando Samādhi"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
-license: "Copyright © Watmarpjan"
+license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 1
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 ## Una guía sobre los fundamentos de la meditación
 
 ---

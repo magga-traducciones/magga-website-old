@@ -3,15 +3,13 @@ author: "Ajahn Anan"
 title: "La felicidad - Más allá del sufrimiento"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
-license: "Copyright © Watmarpjan"
+license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 2
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 > "*La felicidad surge de la compañía oportuna de amigos.  
 > La felicidad surge de tener pocas necesidades.  
 > La felicidad surge de la virtud acumulada al final de la vida.  

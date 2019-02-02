@@ -7,7 +7,6 @@ license: "Copyright 2016, forestsangha.org"
 publisher: "dhammamagga"
 date: 2008
 pubyear: 2008-2016 
-weight: 0
+weight: 38
 draft: false
-googleAnalytics: UA-133551776-1
 ---

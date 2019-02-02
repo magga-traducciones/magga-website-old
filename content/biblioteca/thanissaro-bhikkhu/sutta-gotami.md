@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2009-2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 Traducido del Pali por Thanissaro Bhikkhu  
 
 He oído que en una ocasión el Bendito estaba residiendo en Vesali, en la Sala del techo Puntiagudo en el Gran Bosque.  

@@ -9,9 +9,7 @@ date: 2013
 pubyear: 2013-2019
 weight: 4
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 D. 22  
 
 ¿Y qué es entonces la noble verdad de la extinción del sufrimiento? El completo desvanecimiento y extinción de este anhelo, su renuncia y abandono, liberarse y desapegarse de él.  

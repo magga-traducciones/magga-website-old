@@ -9,9 +9,7 @@ date: 2009
 pubyear: 2009 
 weight: 6
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 _¿Cuál es la Verdad Noble de la Cesación del Sufrimiento? Es el desvanecimiento sin residuos y la cesación de ese mismo deseo: el rechazarlo, abandonarlo, dejarlo y renunciar a él. Pero ¿dónde se abandona y se hace cesar este deseo? Donde sea que haya lo que parece deseable y gratificante, allí se abandona y se hace cesar._
 
 _Esta es la Verdad Noble de la Cesación del Sufrimiento: tal fue la visión, el entendimiento intuitivo, la sabiduría, el conocimiento y la luz que surgieron en mí sobre cosas nunca antes oídas._

@@ -6,17 +6,15 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 7
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 90  
 No hay tensión  
 para aquellos que han completado su viaje  
-y se han liberado  
-de la angustia de la esclavitud.
+y se han liberado de la angustia de la esclavitud.
   
 91  
 Alerta respecto a las necesidades del viaje,  
@@ -26,17 +24,15 @@ dejando atrás sus anteriores moradas.
   
 92  
 Como pájaros que no dejan caminos trazados en el aire,  
-los hay cuyas mentes no se aferran  
-a las tentaciones que les son ofrecidas.  
+los hay cuyas mentes  
+no se aferran a las tentaciones que les son ofrecidas.  
 Su objetivo es el estado de la liberación carente de señales,  
 que para otros es indiscernible.
   
 93  
-Los hay que están libres  
-de todas las obstrucciones;  
+Los hay que están libres de todas las obstrucciones;  
 no se preocupan por la comida,  
-su objetivo es   
-el estado de la liberación carente de señales.  
+su objetivo es el estado de la liberación carente de señales.  
 Como pájaros volando en el aire,  
 sin dejar huellas siguen su camino.
   
@@ -56,13 +52,10 @@ firmes como un pilar,
 imperturbados como un claro y tranquilo estanque. 
   
 96  
-Aquellos que llegan  
-al estado de libertad perfecta  
+Aquellos que llegan al estado de libertad perfecta  
 por medio del correcto entendimiento  
-son imperturbables  
-en cuerpo, palabra o mente.  
-Permanecen firmes  
-ante las vicisitudes de la vida.
+son imperturbables en cuerpo, palabra o mente.  
+Permanecen firmes ante las vicisitudes de la vida.
   
 97  
 Aquellos que conocen lo no creado,  
@@ -77,8 +70,8 @@ el deleite es la morada
 de aquel que ahora es completamente libre.  
 
 99  
-Los seres libres de la adicción  
-a los placeres de los sentidos  
+Los seres libres  
+de la adicción a los placeres de los sentidos  
 conocen una única forma de deleite.  
 Buscan tranquilidad en refugios del bosque  
 que los seres mundanos evitarían.    

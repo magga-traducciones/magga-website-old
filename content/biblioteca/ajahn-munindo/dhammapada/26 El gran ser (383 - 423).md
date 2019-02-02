@@ -6,38 +6,33 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 26
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 383  
-Corta diligentemente  
-la corriente del deseo  
+Corta diligentemente la corriente del deseo  
 y abandona los anhelos de los sentidos;  
-conociendo la limitación inherente  
-a todo lo compuesto,  
+conociendo la limitación inherente a todo lo compuesto,  
 realiza lo no creado.  
 
 384  
 Todas las cadenas de la esclavitud se disipan  
-para aquellos que ven con claridad  
-y conocen bien los estados  
-de concentración y comprensión intuitiva.  
+para aquellos que ven con claridad y conocen bien  
+los estados de concentración y comprensión intuitiva.  
 
 385  
-Digo que un ser es grande  
+Digo que es grande  
 a aquel que no permanece en esta orilla,  
 ni en la otra orilla,  
 ni en ninguna orilla.  
 Un ser así está libre de todas las ataduras.  
 
 386  
-Digo que un ser es grande  
+Digo que es grande  
 a aquel que mora solitario y a gusto,  
-conociendo el corazón  
-libre de toda contaminación,  
+conociendo el corazón libre de toda contaminación,  
 habiendo completado la tarea,  
 purificado todas las tendencias compulsivas,  
 y despierto.  
@@ -58,16 +53,14 @@ Habiendo dejado la impureza
 uno es llamado un renunciante.  
 
 389  
-La no represalia  
-es la característica de los grandes seres.  
+La no represalia es la característica de los grandes seres.  
 No hacen surgir el enfado.  
 Si fueran atacados,  
 no está en su naturaleza devolver el golpe.  
 
 390  
-El sufrimiento remite en la medida  
-en que te liberas de la intención  
-de hacer daño.  
+El sufrimiento remite  
+en la medida en que te liberas de la intención de hacer daño.  
 No hay verdadera grandeza  
 si no hay moderación del enfado.  
 
@@ -78,34 +71,26 @@ puede ser llamado un ser digno.
 
 392  
 La devoción y el respeto  
-deberían ofrecerse a aquellos  
-que nos han mostrado el Camino.  
+deberían ofrecerse  
+a aquellos que nos han mostrado el Camino.  
 
 393  
-Uno no debería considerarse  
-digno de respeto  
-por nacimiento u origen  
-o cualquier otro signo externo;  
-Es la pureza  
-y la comprensión de la verdad  
+Uno no debería considerarse digno de respeto  
+por nacimiento u origen o cualquier otro signo externo;  
+Es la pureza y la comprensión de la verdad  
 lo que determina el valor de uno.  
 
 394  
-Tus adornos externos  
-y prácticas pretenciosas  
-son irrelevantes  
-si internamente sigues en desorden.  
+Tus adornos externos y prácticas pretenciosas  
+son irrelevantes si internamente sigues en desorden.  
 
 395  
-Estar despreocupado  
-de la apariencia externa,  
-pero comprometido con  
-la incesante práctica intensiva  
+Estar despreocupado de la apariencia externa,  
+pero comprometido con la incesante práctica intensiva  
 conduce a la grandeza.  
 
 396  
-Nadie es noble  
-solo por lo que ha heredado.  
+Nadie es noble solo por lo que ha heredado.  
 La nobleza viene de purificarse a uno mismo  
 de todas las impurezas y los apegos.  
 
@@ -113,7 +98,7 @@ de todas las impurezas y los apegos.
 A quien se haya liberado de toda esclavitud  
 y encontrado la ausencia del miedo,  
 que está más allá de los apegos  
-y las contaminaciones,  
+y más allá de las contaminaciones,  
 lo reconozco como a un gran ser.  
 
 398  
@@ -141,55 +126,44 @@ a estos los llamo grandes seres.
 401  
 Como el agua que se desliza por una hoja de loto,  
 así los placeres de los sentidos  
-no se aferran  
-a un gran ser.  
+no se aferran a un gran ser.  
 
 402  
-Aquellos que conocen la libertad  
-de haber dejado a un lado  
-la carga del apego  
-al cuerpo-mente  
+Aquellos que conocen la libertad de haber dejado a un lado  
+la carga del apego al cuerpo-mente  
 los llamo grandes seres.  
 
 403  
 Aquellos poseedores de sabiduría profunda,  
-que ven lo que concuerda con el Camino  
-y lo que no,  
-aquellos que han alcanzado  
-la cumbre de lo posible,  
+que ven lo que concuerda con el Camino y lo que no,  
+aquellos que han alcanzado la cumbre de lo posible,  
 los llamo grandes seres.  
 
 404  
-Aquellos que están libres de apego  
-a la compañía ya sea de laicos  
-o de compañeros renunciantes,  
-y así caminan libres de deseos  
-o preocupaciones por cualquier clase de seguridad,  
+Aquellos que están libres de apego a la compañía  
+ya sea de laicos o de compañeros renunciantes,  
+y así caminan libres de deseos o preocupaciones por cualquier clase de seguridad,  
 son grandes seres.  
 
 405  
-Aquellos que han renunciado  
-al uso de la fuerza  
-en las relaciones con otros seres  
+Aquellos que han renunciado al uso de la fuerza  
+en las relaciones con otros seres,  
 ya sean débiles o fuertes,  
-que nunca matan  
-ni causan muerte,  
+que nunca matan ni causan muerte,  
 pueden ser llamados grandes seres.  
 
 406  
 Aquellos que permanecen  
 amistosos entre lo hostil,  
 en paz entre lo agresivo,  
-y que no se apegan  
-a aquello de lo que otros dependen  
+y que no se apegan a aquello de lo que otros dependen  
 son grandes seres.  
 
 407  
 Para un gran ser,  
 la codicia y la mala voluntad,  
 la arrogancia y la vanidad  
-caen  
-como una pequeña semilla caería  
+caen como una pequeña semilla caería  
 de la punta de una aguja.  
 
 408  
@@ -200,101 +174,81 @@ a estos los llamo grandes seres.
 
 409  
 Las acciones de un gran ser son puras.  
-Los grandes seres nunca  
-toman intencionadamente para sí mismos  
+Los grandes seres nunca toman intencionadamente para sí mismos  
 lo que pertenece a otro.  
 
 410  
 El corazón de un gran ser es libre.  
-Los grandes seres ya no añoran  
-cosas de este mundo  
+Los grandes seres ya no añoran cosas de este mundo  
 o de ningún otro mundo.  
 
 411  
 El corazón de un gran ser es libre.  
-Con un conocimiento preciso  
-más allá de la duda,  
+Con un conocimiento preciso más allá de la duda,  
 los grandes seres han puesto sus pies con firmeza  
 en la tierra de la liberación.  
 
 412  
-Quien quiera que haya trascendido  
-todas las ataduras de lo bueno y lo malo,  
-que esté purificado  
-y libre de toda pena,  
+Quien quiera que haya trascendido todas las ataduras de lo bueno y lo malo,  
+que esté purificado y libre de toda pena,  
 debería ser llamado gran ser.  
 
 413  
-Aquellos seres que   
-están liberados de todo anhelo  
-y, como la luna en un cielo despejado,  
+Aquellos seres que están liberados de todo anhelo y,  
+como la luna en un cielo despejado,  
 son puros, claros y serenos,  
 los llamo grandes.  
 
 414  
-Hay seres  
-que recorren el difícil camino  
-a través del peligroso pantano  
-de las viles pasiones,  
+Hay seres que recorren el difícil camino  
+a través del peligroso pantano de las viles pasiones,  
 Cruzan el océano del engaño  
 a través de la oscuridad de la ignorancia,  
 y van más allá.  
-Sostenidos  
-por la contemplación sabia,  
+Sostenidos por la contemplación sabia,  
 seguros en la libertad de la duda,  
 liberados;  
 estos seres son realmente grandes.  
 
 415  
-Es un gran ser  
-quien, habiendo moderado los deseos  
-por los placeres de los sentidos,  
-vive la vida sin hogar  
-y realiza la libertad  
-de ambos, el deseo sensorial  
-y el perpetuo devenir.  
+Es un gran ser quien,  
+habiendo moderado los deseos por los placeres de los sentidos,  
+vive la vida sin hogar y realiza la libertad de ambos,  
+el deseo sensorial y el perpetuo devenir.  
 
 416  
-Es un gran ser  
-quien, habiendo moderado todo anhelo,  
-vive la vida sin hogar  
-y realiza la libertad  
-de ambos, el anhelo  
-y el perpetuo devenir.  
+Es un gran ser quien,  
+habiendo moderado todo anhelo,  
+vive la vida sin hogar y realiza la libertad de ambos,  
+el anhelo y el perpetuo devenir.  
 
 417  
-Es un gran ser  
-quien puede ver a través de todos los deleites obvios  
+Es un gran ser quien,  
+puede ver a través de todos los deleites obvios  
 así como de los placeres sutiles  
 para estar libre de apego.  
 
 418  
-Aquellos que dejan de  
-confrontar lo bueno con lo malo,  
+Aquellos que dejan de confrontar lo bueno con lo malo,  
 que están serenos,  
-que no son influenciados  
-por las condiciones mundanas  
-—a estos los llamo grandes seres.  
+que no son influenciados por las condiciones mundanas,  
+a estos los llamo grandes seres.  
 
 419  
 Digo que alguien que entiende completamente  
 el desaparecer y el surgir de los seres,  
-que permanece atento,  
-desapegado, despierto,  
-que es consciente de  
-la acción correcta en todo momento,  
+que permanece atento, desapegado, despierto,  
+que es consciente de la acción correcta en todo momento,  
 es un gran ser.  
 
 420  
-El estado después de la muerte  
-de los grandes seres es indiscernible;  
+El estado después de la muerte de los grandes seres es indiscernible;  
 no queda traza de pasión.  
 Son puros.  
 
 421  
 Quienquiera que viva liberado  
-de los hábitos del apego  
-al pasado, al presente o al futuro,  
+de los hábitos del apego al pasado, al presente o al futuro,  
 sin poseer nada,  
 es un gran ser.  
 
@@ -305,11 +259,9 @@ ve a través del engaño,
 es claro, atento y despierto.  
 
 423  
-Comprender todas las dimensiones  
-de la existencia pasada,  
+Comprender todas las dimensiones de la existencia pasada,  
 ver con precisión en todos los reinos,  
 alcanzar el fin de los renacimientos,  
-saber por conocimiento intuitivo  
-aquello que debe ser sabido,  
-liberar el corazón de la ignorancia  
-—esta es la esencia de un gran ser.    
+saber por conocimiento intuitivo aquello que debe ser sabido,  
+liberar el corazón de la ignorancia,  
+esta es la esencia de un gran ser.    

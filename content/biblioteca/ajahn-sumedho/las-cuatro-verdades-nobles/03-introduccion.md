@@ -9,9 +9,7 @@ date: 2009
 pubyear: 2009 
 weight: 3
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 
 _Que tanto vosotros como yo hayamos tenido que viajar y caminar penosamente por este largo camino se debe a nuestro no descubrir, no penetrar, las cuatro verdades. ¿Qué cuatro?_  
 

@@ -6,10 +6,9 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 3
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 33  
@@ -19,16 +18,14 @@ tan excitable, insegura
 y dificil de controlar.   
   
 34  
-Como un pez el cual al ser sacado  
-de su hogar en el agua  
-y sacudido en tierra seca  
-se retorcerá,  
+Como un pez el cual al ser sacado de su hogar en el agua  
+y sacudido en tierra seca se retorcerá,  
 también el corazón se estremece  
 cuando cede a la corriente de Mara.   
 
 35  
 La mente activa es dificil de domar,  
-caprichosa y vagando por donde desea:  
+caprichosa y vagando por doquier:  
 domarla es esencial,  
 conduciendo a la alegría del bienestar.  
 
@@ -48,15 +45,13 @@ es estar liberado de los cadenas de la ignorancia.
 
 38  
 En aquel cuya mente es inestable,  
-cuyo corazón no está preparado  
-con enseñanzas verdaderas,  
+cuyo corazón no está equipado con enseñanzas verdaderas,  
 cuya fe no está madura,  
 la plenitud de la sabiduría todavía no se manifiesta.  
 
 39  
 No hay miedo  
-si el corazón no está contaminado  
-por las pasiones  
+si el corazón no está contaminado por las pasiones  
 y la mente está libre de mala voluntad.  
 Viendo mas allá de lo bueno y lo malo  
 uno está despierto.  
@@ -64,13 +59,13 @@ uno está despierto.
 40  
 Viendo este cuerpo siendo tan frágil como un recipiente de arcilla,  
 y fortificando el corazón como la muralla de una ciudad,  
-uno puede hacer frente a Mara con el arma de la comprensión intuitiva (insight).  
+uno puede hacer frente a Mara con el arma de la comprensión intuitiva.  
 Teniendo la ventaja del no apego,  
 uno protege lo que ya ha sido obtenido.  
 
 41  
 Ciertamente este cuerpo yacerá pronto sin vida:  
-apartado hacia un lado en el suelo,  
+dejado a un lado en el suelo,  
 desprovisto de conciencia  
 y tan inutil como un leño quemado.  
   

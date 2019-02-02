@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2009-2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 1 de marzo de 2004
 
 La gente se resiste mucho a contemplar el cuerpo como tema de meditación. Algunos se quejan de que ellos ya tienen una imagen negativa del cuerpo así que ¿para qué centrarse en la parte negativa del cuerpo? Otros dicen que la contemplación del cuerpo es una manera de fomentar la aversión hacia el cuerpo, que es un estado mental insano. Otros dicen que no están tan apegados a sus cuerpos, así que ¿para qué centrarse en el cuerpo? O mencionan la historia donde el Buddha recomienda la contemplación del cuerpo a algunos monjes y luego se va al bosque por un par de meses. Los monjes se disgustan tanto con sus cuerpos que comienzan a suicidarse, mientras que otros contratan asesinos para que los maten. Cuando el Buddha regresó del bosque, encontró que la comunidad de monjes era bastante más pequeña de lo era antes de haberse ido, así que reunió a los monjes restantes y les dijo que en vez eso practicasen meditación con la respiración. Algunas personas citan esto como prueba de que la contemplación del cuerpo es una práctica insana.  

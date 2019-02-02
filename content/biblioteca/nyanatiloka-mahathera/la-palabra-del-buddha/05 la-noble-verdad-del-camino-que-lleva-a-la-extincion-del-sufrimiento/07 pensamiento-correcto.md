@@ -9,9 +9,7 @@ date: 2015
 pubyear: 2013-2019 
 weight: 7
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 ## (*Sammā-sankappa*)  
 
 D. 22  

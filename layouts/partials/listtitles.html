@@ -1,24 +1,22 @@
-<style type="text/css">
-    div {
-        width="100%";
-        margin: 0 auto;
-    }
-    li {
-        text-align: center;
-        list-style: none
-    }
-</style>
 <hr>
 <ul>
+    {{ if .Pages }}
+    {{ if not .Params.booktitle }}
+    <h5>Textos</h5>
+    {{ end }}
     {{ range .Pages }}
     <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+    </li><br>
     {{ end }}
+    {{ end }}
+    {{ if .Sections }}
+    <h5>Libros</h5>
     {{ range .Sections }}
     <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
+    {{ end }}
     {{ end }}
 </ul>
 <hr><br>

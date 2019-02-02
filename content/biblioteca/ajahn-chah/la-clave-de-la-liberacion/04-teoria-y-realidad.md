@@ -9,9 +9,7 @@ date: 2008
 pubyear: 2008-2016 
 weight: 4
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 El Buddha no nos enseñó a estudiar la mente y los factores mentales para llegar a apegarnos a ellos, solo nos enseñó a conocerlos como aniccam, dukkham, anatta. La esencia de la práctica del budismo entonces es dejarlos ir y apartarlos a un lado. Debes establecer y mantener la atención en la mente y los factores mentales según surgen. De hecho, la mente ha sido desarrollada y condicionada para apartarse y girar sobre sí misma lejos de este estado natural de atención, dando lugar a sankhara que más adelante la amaña e influencia. Por lo tanto se ha ido acostumbrando a la experiencia de la proliferación mental constante y a todo tipo de condicionamientos tanto beneficiosos como no beneficiosos. El Buddha nos enseñó a dejarlos ir a todos, pero antes de que puedas empezar a dejar ir, debes primero estudiar y practicar.  
 
 Esto es acorde con la naturaleza, el modo en que son las cosas. La mente es así, los factores mentales son así, es exactamente así como funciona.  

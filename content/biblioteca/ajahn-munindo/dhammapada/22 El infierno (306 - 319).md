@@ -6,10 +6,9 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 22
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 306  
@@ -17,20 +16,16 @@ Mentir conduce a la pena.
 Disimular las malas acciones   
 conduce a la pena.  
 Estos dos actos de engaño  
-llevan a los seres  
-al mismo estado de aflicción.  
+llevan a los seres al mismo estado de aflicción.  
 
 307  
-Aquellos que visten  
-los hábitos de un renunciante  
-pero todavía albergan maldad  
-y no son moderados  
+Aquellos que visten los hábitos de un renunciante  
+pero todavía albergan maldad y no son moderados  
 van hacia un estado de aflicción.  
 
 308  
 Sería mejor tragar hierro fundido  
-que para un renunciante  
-vivir de ofrendas  
+que para un renunciante vivir de ofrendas  
 ganadas falsamente.  
 
 309  
@@ -66,15 +61,15 @@ solo remueve el polvo.
 Los hechos hirientes  
 es mejor que queden sin hacer  
 ya que siempre llevan al remordimiento.  
-Los hechos inofensivos es mejor hacerlos  
+Los hechos inofensivos  
+es mejor hacerlos  
 ya que el remordimiento no les seguirá.  
 
 315  
 Como una ciudad fronteriza debe ser protegida con cuidado  
-así protégete tanto interna como externamente;  
+protégete así tanto interna como externamente;  
 construye tus defensas sabiamente y a tiempo.  
-Si estas cosas no se atienden  
-en el momento correcto  
+Si estas cosas no se atienden en el momento correcto  
 una gran tristeza vendrá.  
 
 316  

@@ -9,9 +9,7 @@ date: 2015
 pubyear: 2015 
 weight: 6
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 Ahora resumiremos los métodos de la meditación con la respiración en el contexto de jhāna.  
 
 Jhāna significa estar absorto o centrado en un único objeto o preocupación, como cuando tratamos con la respiración.  

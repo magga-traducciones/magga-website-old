@@ -9,9 +9,7 @@ date: 2015
 pubyear: 2013-2019 
 weight: 8
 draft: false
-googleAnalytics: UA-133551776-1
----
-## (*Sammā-vācā*)  
+---## (*Sammā-vācā*)  
 ¿Y qué es entonces el habla correcta?  
 
 ## Abstenerse de mentir  

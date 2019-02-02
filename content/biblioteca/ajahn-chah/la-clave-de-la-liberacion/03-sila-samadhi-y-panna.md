@@ -9,9 +9,7 @@ date: 2008
 pubyear: 2008-2016 
 weight: 3
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 En cuanto a mí, he podido practicar sin gran cantidad de conocimientos teóricos. Es suficiente con saber que el camino comienza con sīla (moderación moral). Sīla es lo que es bonito al comienzo. Samādhi es lo que es bonito en el medio. Paññā (sabiduría) es lo que es bonito al final. Según vas profundizando en la práctica y contemplación de estos tres aspectos, se mezclan y se convierten en uno, aunque puedas todavía verlos como tres partes separadas de la práctica.  
 
 Como prerrequisito para entrenarse en sīla, paññā debe estar presente, pero normalmente decimos que la práctica comienza con sīla. Es el fundamento, los cimientos. Precisamente paññā es el factor que determina cómo de fructífera y completa es la práctica de sīla. Necesitas contemplar tu habla y tus acciones e investigar el proceso de causa y efecto, todo esto es función de paññā. Tienes que depender de paññā antes de que sīla pueda establecerse.  

@@ -9,9 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 7
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 Las características de la mente como marco de referencia se pueden dividir en tres tipos: características mentales internas, características mentales externas y características mentales en sí mismas.  
 
 A. Las características mentales pueden ser buenas o malas, pero aquí trataremos solo con los cinco impedimentos (nivarana) que son malos:

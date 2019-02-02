@@ -9,9 +9,7 @@ date: 2013
 pubyear: 2013-2019
 weight: 1
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 D.16.
 
 Así ha sido dicho por el Buddha, el Iluminado:  

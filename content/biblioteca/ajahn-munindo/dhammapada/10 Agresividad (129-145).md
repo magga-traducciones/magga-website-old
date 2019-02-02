@@ -6,16 +6,15 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 10
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 129  
 Teniendo empatía hacia los otros  
-uno ve que todos los seres tienen miedo  
-del castigo y de la muerte.  
+uno ve que todos los seres  
+tienen miedo del castigo y de la muerte.  
 Sabiendo esto,  
 uno no ataca o provoca un ataque.  
 
@@ -47,10 +46,8 @@ vuélvete tan silencioso como un gong quebrado;
 la no represalia es signo de libertad.  
 
 135  
-Como un pastor  
-guía al ganado hacia el pasto,  
-la vejez y la muerte  
-dirigen a los seres vivos.  
+Como un pastor guía al ganado hacia el pasto,  
+la vejez y la muerte dirigen a los seres vivos.  
 
 136  
 Aunque mientras realizan sus malos actos  
@@ -101,12 +98,10 @@ animado por el simple toque de la fusta.
 Renuncia a la carga de la interminable lucha  
 con la confianza que no da lugar a disculpas,  
 con pureza de acción, esfuerzo, concentración,  
-y por medio un compromiso   
-consciente y disciplinado con el camino.  
+y por medio un compromiso consciente y disciplinado con el camino.  
 
 145  
-Aquellos que construyen canales  
-encauzan el flujo del agua.  
+Aquellos que construyen canales encauzan el flujo del agua.  
 Los flecheros hacen flechas.  
 Los carpinteros trabajan la madera.  
 Los buenos se adiestran a sí mismos.  

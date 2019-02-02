@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2008-2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 “Budismo” significa “la Enseñanza del Iluminado”. Un Buddha es un individuo iluminado, uno que conoce la verdad sobre todas las cosas, uno que conoce exactamente qué es qué, y por lo tanto es capaz de comportarse apropiadamente en relación a todas las cosas. El budismo es una religión basada en la inteligencia, la ciencia y el conocimiento, cuyo propósito es la destrucción del sufrimiento y de la fuente del sufrimiento. Cualquier forma de rendir homenaje a objetos sagrados a través de la realización de ritos y rituales, haciendo ofrendas o rezando no es budismo. El Buddha rechazó todo esto considerándolo tonto, ridículo e insano. También rechazó a los seres celestiales, que eran considerados por ciertos grupos como los creadores de las cosas, y a las deidades que se suponía que moraban una en cada estrella del cielo. Así que encontramos que el Buddha hacía declaraciones como estas:  
 
 > "*Conocimiento, destreza y capacidad conducen al éxito y al beneficio y son presagios auspiciosos, buenos por propio derecho sin importarles los movimientos de los cuerpos celestiales. Con los beneficios conseguidos de estas cualidades, uno sobrepasará completamente a aquella gente insensata que solo se sienta, haciendo sus cálculos astrológicos.*"  

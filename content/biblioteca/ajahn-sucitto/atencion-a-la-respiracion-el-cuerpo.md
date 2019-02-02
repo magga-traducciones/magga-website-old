@@ -9,9 +9,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2017 
 weight: 1
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 La atención a la inhalación y a la exhalación es la meditación más detallada y progresiva que dio el Buddha, ratificada por él como una práctica que lleva al Despertar completo. En el sutta que recoge estas instrucciones [M.118], estas se presentan en grupos de cuatro. Estos grupos están formados a su vez por grupos de instrucciones progresivas sobre la atención a la respiración, cubriendo las formas en las que la respiración afecta y modera las energías corporales, mentales (emocionales y sicológicas) y la consciencia. Los cuatro grupos de cuatro tienen un enfoque diferente, como se verá en la Tercera Parte.  
 
 Pero para empezar… Si vamos a poner nuestra atención en la respiración mejor tener claro qué es ‘respirar’ como experiencia. Así que ¿Cómo sabemos que estamos respirando? Respirar puede sentirse por el movimiento de los músculos y otros tejidos blandos del abdomen, así como por la ampliación y elevación del pecho. Respirar también puede sentirse a través de las sensaciones que la inhalación y la exhalación del aire produce en la nariz y la garganta. Por otra parte, estemos centrados en ella o no, pronto llegaremos a conocer la respiración por la presencia de, o limitaciones en, nuestra energía disponible. Si te centras en la experiencia energética, es obvio que la inhalación es diferente de la exhalación: inhalar anima y eleva la energía corporal; exhalar suaviza y difumina la energía corporal. El cuerpo siente la diferencia.  

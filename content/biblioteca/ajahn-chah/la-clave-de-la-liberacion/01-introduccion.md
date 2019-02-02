@@ -9,9 +9,7 @@ date: 2008
 pubyear: 2008-2016 
 weight: 1
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 > *La siguiente charla sobre el Dhamma fue dada de forma informal a un monje erudito que había ido a ofrecer sus respetos al Venerable Ajahn Chah.*
 
 En el budismo, la razón principal por la que estudiamos el Dhamma (la realidad) es encontrar el camino para trascender el sufrimiento y alcanzar la paz. Ya sea que estudies los fenómenos físicos o mentales, citta (mente o conciencia) o cetasika (factores mentales), solo cuando haces que la liberación del sufrimiento sea tu objetivo final por encima de todo, estarás practicando de forma correcta. Esto es así porque el sufrimiento y sus causas todavía existen aquí y ahora.  

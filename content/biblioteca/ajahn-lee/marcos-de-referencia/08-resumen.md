@@ -9,9 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 8
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 Los cuatro marcos de referencia se pueden reducir a dos: fenómenos físicos y mentales, o - de otra forma - cuerpo y mente. Incluso aunque estén divididos en cuatro, es solo el flujo mental lo que está dividido. Cuando llegas a la esencia de la práctica, todo se reduce al cuerpo y a la mente. Si quieres simplificar la práctica, deberías centrarte en investigar el cuerpo, y luego centrarte en investigar la mente.  
 
 1. Para centrarse en investigar el cuerpo: Se consciente de cualquier característica del cuerpo, como la respiración, y luego cuando puedas mantenerte centrado en ello con precisión, expande tu atención para observar otros aspectos del cuerpo, examinándolos desde varios ángulos. No obstante, mientras investigas, no dejes ir tu enfoque original - la respiración. Sigue examinando las cosas hasta que hayas conseguido una comprensión intuitiva clara y real sobre las características del cuerpo, y la mente se vuelva más tranquila, quieta y sutil que antes. Si algo surge mientras estás investigando, no te aferres a ello de ninguna forma.  

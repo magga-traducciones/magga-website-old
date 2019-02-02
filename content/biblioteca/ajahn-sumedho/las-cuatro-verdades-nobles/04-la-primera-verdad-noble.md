@@ -9,9 +9,7 @@ date: 2009
 pubyear: 2009 
 weight: 4
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 _¿Cuál es la Verdad Noble del Sufrimiento? Nacer es sufrimiento, envejecer es sufrimiento, la enfermedad es sufrimiento, la separación de lo amado es sufrimiento, no conseguir lo que uno quiere es sufrimiento: en resumen, las cinco categorías afectadas por el apego son sufrimiento.__Existe esta Verdad Noble del Sufrimiento: tal fue la visión, el entendimiento intuitivo, la sabiduría, el conocimiento y la luz que surgieron en mí sobre cosas nunca antes escuchadas._  
 
 _Esta Verdad Noble debe ser penetrada por la plena comprensión del sufrimiento: tal fue la visión, el entendimiento intuitivo, la sabiduría, el conocimiento y la luz que surgieron en mí sobre cosas nunca antes escuchadas._  

@@ -9,9 +9,7 @@ date: 2010
 pubyear: 2010 
 weight: 3
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 Una explicación de los cuatro marcos de referencia, que representan - para aquellos que los ponen en práctica - un medio para la liberación de la corrupción.  
  
 I. Kayanupassana satipatthana: estar atento al cuerpo como marco de referencia.  

@@ -3,15 +3,13 @@ author: "Ajahn Anan"
 title: "La atención - El corazón de la práctica"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
-license: "Copyright © Watmarpjan"
+license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 4
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 > "*En la práctica del Dhamma todo lo que necesitamos es la atención.  
 > Todo en el mundo se volverá luego claro.*"  
 > **Ajahn Bua Siripuñño** 

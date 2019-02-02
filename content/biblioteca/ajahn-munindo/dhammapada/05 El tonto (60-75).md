@@ -6,15 +6,13 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 5
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 60  
-La noche es larga  
-para quien no puede dormir.  
+La noche es larga para quien no puede dormir.  
 Un viaje es largo para aquel que está cansado.  
 La existencia ignorante es larga y tediosa  
 para aquellos inconscientes de la Verdad.
@@ -39,18 +37,14 @@ el tonto que cree que es sabio
 es con toda seguridad un tonto.
 
 64  
-Como cucharas incapaces de saborear  
-el gusto de la sopa,  
+Como cucharas incapaces de saborear el gusto de la sopa,  
 son los tontos que no pueden ver la verdad,  
-aún cuando vivan  
-toda su vida entre los sabios.
+aún cuando vivan toda su vida entre los sabios.
 
 65  
-Como la lengua que puede apreciar  
-el sabor de la sopa,  
+Como la lengua que puede apreciar el sabor de la sopa,  
 es el que puede discernir claramente la verdad  
-despues de solo una breve  
-relación con el sabio.
+despues de solo una breve relación con el sabio.
 
 66  
 Por hacer el mal descuidadamente,  
@@ -67,7 +61,8 @@ uno cosecha sus frutos.
 68  
 Un acto está bien hecho  
 cuando tras la reflexión no surge ningún remordimiento:  
-con alegría uno cosecha sus frutos.
+con alegría 
+uno cosecha sus frutos.
 
 69  
 Los tontos perciben los actos malos  
@@ -84,14 +79,13 @@ con la persona que simplemente ve la verdad.
 
 71  
 La leche fresca no se convierte inmediatamente en cuajada,  
-y las malas acciones no muestras inmediatamente sus frutos:  
+y las malas acciones no muestran inmediatamente sus frutos:  
 Sin embargo, los tontos si sufren por las consecuencias de su estupidez  
-como si estuvieran quemándose  
-por estar sobre ascuas ocultas en las cenizas.
+como si estuvieran quemándose sobre ascuas ocultas en las cenizas.
 
 72  
 Los tontos son aquellos que usan tontamente  
-cualquiera de los  regalos que tienen,  
+cualquiera de los regalos que tienen,  
 destruyendo su buena fortuna acumulada.
 
 73-74  
@@ -99,14 +93,13 @@ El engreimiento y el deseo de los tontos crece
 mientras reclaman para ellos  
 autoridad, reconocimiento y recompensas indebidas:  
 su falsedad afecta a su anhelo,  
-desean ser vistos  
-como poderosos y con discernimiento.
+desean ser vistos como poderosos y con discernimiento.
 
 75
-El camino que llega a la ganancia mundana  
+El camino que lleva a la ganancia mundana  
 y el camino que lleva a la liberación  
 son distintos caminos.  
 Viendolo así, el discípulo renunciante  
-evita la distracción  
-de la ganancia y el éxito mundanos,  
+evita la distracción que supone  
+la ganancia y el éxito mundanos,  
 morando en soledad.  

@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2019 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 {{< figure src="/media/a_sucitto.jpg" width="40%">}}
 
 > "*En caso de que te lo preguntes, soy un monje budista (bhikkhu). Me inicié en la vida monástica en 1975 en Tailandia, pero desde 1978 he estado en Bretaña. He pasado los últimos catorce años formándome con Ajahn Sumedho, el discípulo occidental con más antiguedad de Ajahn Chah, y por lo tanto son parte ese linaje de práctica directa.*

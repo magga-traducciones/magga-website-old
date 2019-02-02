@@ -3,15 +3,13 @@ author: "Ajahn Anan"
 title: "Introducción"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en—book—cds.html"
-license: "Copyright © Watmarpjan"
+license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
 date: 2013—01—21 08:19:55+00:00
 pubyear: 2013-2019
 weight: 1
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 La mente ha estado dando vueltas toda la mañana intentando solucionarlo todo. Nos gustaría seguir con nuestra meditación, pero necesitamos solucionar esto primero. Es sobre la práctica. Meditar parece más difícil estos días: menos notable, menos relajante. Al final ha habido mucho pensamiento no solicitado. Algo ha estado haciendo surgir preocupaciones, posibilidades, viejos recuerdos, letras de canciones... ¿No habíamos ido más allá de esto? Aunque no importa. Probablemente solo necesitemos un cambio de escenario.  
 
 Seguro que es el propio monasterio. Reflexionando en algunos aspectos del sitio, parece que las cosas podrían ser mejores. Podría ser más silencioso, en primer lugar; podría haber menos gente. El tiempo definitivamente podría ser mejor, más fresco. ¿Quizás podríamos plantar algunos árboles más? Y ciertamente deberíamos ser capaces de llevar a cabo lo planificado de forma más eficiente. Más tiempo para meditar, menos tareas. Si las cosas fuesen diferentes podríamos ir más allá de todo este sufrimiento y descontento ¿verdad?  

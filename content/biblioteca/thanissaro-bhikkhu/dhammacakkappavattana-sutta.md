@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2011-2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 ## Poniendo la Rueda del Dhamma en movimiento
 
 He oído que en una ocasión el Bendito estaba residiendo en Varanasi en el Refugio de Caza en Isipatana. Allí se dirigió al grupo de cinco monjes:  

@@ -6,35 +6,27 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 15
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 197  
-Estando en medio  
-de aquellos que odian,  
-vivir libre de odio  
-es de hecho la felicidad.   
+Estando en medio de aquellos que odian,  
+vivir libre de odio es de hecho la felicidad.   
 
 198  
-Estando en medio  
-de aquellos que están preocupados,  
-vivir sin preocupaciones  
-es de hecho la felicidad.  
+Estando en medio de aquellos que están preocupados,  
+vivir sin preocupaciones es de hecho la felicidad.  
 
 199  
-Estando en medio  
-de aquellos que son avariciosos,  
-vivir libre de la avaricia  
-es de hecho la felicidad.  
+Estando en medio de aquellos que son avariciosos,  
+vivir libre de la avaricia es de hecho la felicidad.  
 
 200  
 Vivimos felizmente,  
 libres de ansiedad;  
-como seres radiantes  
-en reinos celestiales  
+como seres radiantes en reinos celestiales  
 nos regocijamos en el deleite.  
 
 201  
@@ -51,8 +43,7 @@ ni alegría como la paz de la liberación.
 
 203  
 El anhelo es la mayor desgracia,  
-lo condicionado es la mayor  
-fuente de desesperación.  
+lo condicionado es la mayor fuente de desesperación.  
 El sabio, viendo esto tal como es,  
 realiza la liberación, la mayor alegría.  
 
@@ -60,8 +51,7 @@ realiza la liberación, la mayor alegría.
 Una mente sana es la mayor ganancia.  
 El contentamiento es la mayor riqueza.  
 Ser digno de confianza es el mejor de los parientes.  
-La libertad incondicionada  
-es la más alta dicha.  
+La libertad incondicionada es la más alta dicha.  
 
 205  
 Saboreando el sabor de la soledad  
@@ -78,14 +68,12 @@ y deleitarse viviendo con ellos.
 
 207  
 Tediosa es la compañía de los tontos,  
-siempre dolorosa, como estar  
-rodeado de enemigos;  
+siempre dolorosa,  
+como estar rodeado de enemigos;  
 pero asociarse con el sabio  
 es como estar en casa.  
 
 208  
-Deberíais seguir el camino  
-de aquellos que son firmes,  
+Deberíais seguir el camino de aquellos que son firmes,  
 con discernimiento, puros y atentos,  
-así como la luna sigue  
-el camino de las estrellas.  
+así como la luna sigue el camino de las estrellas.  

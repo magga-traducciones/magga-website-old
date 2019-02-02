@@ -6,10 +6,9 @@ source: "https://forestsangha.org/teachings/books/un-dhammapada-para-la-contempl
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2010
-pubyear: 2010 
+pubyear: 2010-2019 
 weight: 18
 draft: false
-googleAnalytics: UA-133551776-1
 ---  
 
 235  

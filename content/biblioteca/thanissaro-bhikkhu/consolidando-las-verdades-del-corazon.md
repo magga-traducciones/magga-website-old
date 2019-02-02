@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2011-2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 ### Las enseñanzas budistas de samvega y pasada
 
 _Un budismo positivista que nos enseña a encontrar la felicidad abriéndonos a la riqueza de nuestra vida diaria._  

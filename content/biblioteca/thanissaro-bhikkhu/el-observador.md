@@ -8,9 +8,7 @@ date: 2013-01-21 08:19:55+00:00
 pubyear: 2008-2013 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 5 de Agosto 2003  
 
 A veces la meditación es fácil; a veces difícil. Pero sea fácil o difícil, tenemos que mantener estables nuestras mentes. Cuando se hace fácil, no te vuelvas complaciente. Si te vuelves complaciente, las cosas se empiezan a aflojar, como los tornillos aflojándose en tu coche. Después de un tiempo las cosas empiezan a vibrar y luego se sueltan. De igual forma cuando las cosas no van bien, no te alteres. La regla número uno en ambos casos es mantener la mente estable. Ten un fuerte sentido de observador, la parte de la mente que mira simplemente lo que está pasando, e identifícate tanto como puedas con eso.  

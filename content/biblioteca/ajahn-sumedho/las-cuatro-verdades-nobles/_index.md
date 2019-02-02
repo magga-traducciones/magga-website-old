@@ -9,5 +9,4 @@ date: 2009
 pubyear: 2009 
 weight: 0
 draft: false
-googleAnalytics: UA-133551776-1
 ---

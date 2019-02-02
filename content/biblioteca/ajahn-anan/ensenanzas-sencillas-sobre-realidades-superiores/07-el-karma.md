@@ -3,15 +3,13 @@ author: "Ajahn Anan"
 title: "El karma - Acciones y sus resultados"
 booktitle: "Enseñanzas sencillas sobre realidades superiores"
 source: "http://www.watmarpjan.org/en/en-book-cds.html"
-license: "Copyright © Watmarpjan"
+license: "Copyright © www.watmarpjan.org"
 publisher: "magga traducciones"
 date: 2013-01-21 08:19:55+00:00
 pubyear: 2013 
 weight: 7
 draft: false
-googleAnalytics: UA-133551776-1
 ---
-
 > "*Obviamente hay una causa raíz para toda la bondad y la maldad,  
 > para toda la felicidad y el sufrimiento experimentado  
 > por la gente en cualquier parte del mundo.  
