@@ -1,5 +1,6 @@
 ---
 title: "Suscribirse"
+weight: 3
 ---
 
 Si quieres recibir un aviso por correo de las nuevas publicaciones introduce tu dirección en el siguiente cuadro:
