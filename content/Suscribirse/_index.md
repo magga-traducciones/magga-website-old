@@ -6,7 +6,7 @@ weight: 3
 Si quieres recibir un aviso por correo de las nuevas publicaciones introduce tu dirección en el siguiente cuadro:  
 
 
-<form accept-charset="UTF-8" method="POST" name="Suscripciones" data-netlify="true" action "/bienvenido/">
+<form accept-charset="UTF-8" method="POST" name="Suscripciones" data-netlify="true" action="/bienvenido/">
   <label for="email-address"></label>
   <input type="email" id="email" name="email" required>
   <button class="btn btn-default" type="submit">Enviar</button>
