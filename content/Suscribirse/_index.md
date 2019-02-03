@@ -9,11 +9,10 @@ Si quieres recibir un aviso por correo de las nuevas publicaciones introduce tu 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 
-<form accept-charset="UTF-8" enctype="multipart/form-data" method="POST" data-netlify="true">
+<form accept-charset="UTF-8" method="POST" data-netlify="true">
   <label for="email-address"></label>
   <input type="email" id="email" name="email" required>
-   <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
-    <button class="btn btn-success" type="submit">Enviar</button>
+  <button class="btn btn-success" type="submit">Enviar</button>
 </form>
 ---  
 
