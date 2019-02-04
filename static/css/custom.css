@@ -680,7 +680,7 @@ ul.children.children-card {
 @media (max-width: 1024px) {
   section {
     margin-right: 0;
-    width: 100; }
+    width: 100%; }
 
   section > .toc {
     display: none; } }
@@ -700,7 +700,7 @@ ul.children.children-card {
   article > section.page {
     margin: 0 0;
     padding: 1rem;    
-    width: 100; }
+    width: 100%; }
 
   article > section.page #navigation label {
     display: none; }
