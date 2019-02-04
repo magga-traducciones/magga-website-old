@@ -689,7 +689,8 @@ ul.children.children-card {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
-    flex-direction: column; }
+    flex-direction: column; 
+    width: 100%; }
 
   article > aside {
     display: none; }
