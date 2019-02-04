@@ -11,7 +11,8 @@ weight: 23
 draft: false
 ---
 
-> *Nota*: Una traducción previa fue impresa con el título de *¡Empieza a hacerlo!*. *Una charla en directo, en dialecto Lao, dada a una Asamblea de Monjes recién ordenados en Wat Pah Pong, en el día del comienzo del Retiro de las Lluvias, en Julio de 1978.*  
+> *Una charla en directo, en dialecto Lao, dada a una asamblea de monjes recién ordenados en Wat Pah Pong, en el día del comienzo del Retiro de las Lluvias, en Julio de 1978.*   
+*Nota: Una traducción previa fue impresa con el título de ¡Empieza a hacerlo!*. 
 
 ---  
 

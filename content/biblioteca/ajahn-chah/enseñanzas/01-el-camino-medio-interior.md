@@ -11,6 +11,10 @@ weight: 1
 draft: false
 ---
 
+> *Dada en el dialecto del noreste de Tailandia a una asamblea de monjes y laicos en 1970.* 
+
+---  
+
 Las enseñanzas Budistas tratan sobre dejar de hacer lo que está mal y practicar lo que está bien. Cuando se abandona lo malo y se ha establecido uno en lo bueno, debemos soltar ambos, maldad y bondad. Ya hemos oído lo suficiente sobre condiciones beneficiosas y no beneficiosas como para poder tener una idea de lo que son, así que me gustaría hablar sobre el Camino Medio, es decir, el camino para trascender ambas cosas.  
 
 Todas las charlas sobre el Dhamma y las enseñanzas del Buda tienen un objetivo —mostrar una salida al sufrimiento a aquellos que todavía no han podido escapar. Las enseñanzas tienen como propósito proporcionarnos el entendimiento correcto. Si no entendemos con claridad, no podemos llegar a vivir en paz.  
